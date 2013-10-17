@@ -1,0 +1,3799 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html lang="cn" class="ie6"> <![endif]-->
+<!--[if IE 7 ]><html lang="cn" class="ie7"> <![endif]-->
+<!--[if IE 8 ]><html lang="cn" class="ie8"> <![endif]-->
+<!--[if IE 9 ]><html lang="cn" class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="cn"><!--<![endif]-->
+<head>
+  <title>卡迪夫城 vs. 托特纳姆热刺 - 22 九月 2013 - Soccerway</title>
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="description" content="卡迪夫城 vs. 托特纳姆热刺 - 22 九月 2013 - Soccerway" />
+  <meta name="keywords" content="卡迪夫城 vs. 托特纳姆热刺 - 22 九月 2013 - Soccerway, soccer, football, soccer results, soccer tables, soccer fixtures, soccer statistics, soccer teams, soccer players, soccer news, football results, football tables, football fixtures, football statistics, football teams, football players, football news" />
+  <meta name="verify-v1" content="YZMe1orngFPI/VHY1nG15dA7JJApmh8u0hkegWp64g8=" />
+  <meta name="alexaVerifyID" content="njeQixLcgBgQ9UllN0-IbVYAz1M" />
+  
+  
+  <link rel="alternate" href="http://syndication.soccerway.com/rss/english.php" type="application/rss+xml" media="screen" charset="utf-8" />
+  
+  <script type="text/javascript" charset="utf-8">
+  /* <![CDATA[ */
+  var Config = (function() {
+    var settings = {"cookie_domain":".soccerway.com","ajax_path":"\/a","ajax_block_path":"\/b","live_update_path":"\/lu","l10n_cookie_name":"sw_l10m","betting_disabled_countries":["hk","cn","sa","tr","us"],"l10n":"cn","default_l10n":"int","base_domain":"soccerway.com","valid_l10ns":["id","cn","de","au","ca","gh","int","ie","ke","my","ng","nr","sg","za","uk","us","es","el","fr","gr","it","kr","nl","pl","pt","br","ro","th","tr","ru","ar"],"localization_groups":{"arg":"el","cl":"el","co":"el","ec":"el","cr":"el","sv":"el","gt":"el","hn":"el","ni":"el","pa":"el","mx":"el","pe":"el","uy":"el","ve":"el","bo":"el","cu":"el","do":"el","py":"el","is":"nr","no":"nr","se":"nr","dk":"nr","fi":"nr","fo":"nr","sy":"ar","iq":"ar","lb":"ar","jo":"ar","kw":"ar","bh":"ar","qa":"ar","ae":"ar","sa":"ar","om":"ar","ye":"ar","eg":"ar","tn":"ar","ly":"ar","dz":"ar","ma":"ar","mr":"ar","sd":"ar","td":"ar","er":"ar","dj":"ar","so":"ar","ar":"ar"},"geo_script":"http:\/\/geo.soccerway.com\/geo.php","username_cookie_name":"sw_username","top_most_feed_url":"http:\/\/www.goal.com\/feed\/prediction\/predictions?format=soccerway","goal_save_prediction":"http:\/\/www.goal.com\/feed\/prediction\/predict?format=soccerway","odds_feed_url":"http:\/\/www.goal.com\/feed\/odds\/match?format=soccerway"};
+    
+    return {
+      get: function(key) {
+        return settings[key];
+      }
+    };
+  })();
+  /* ]]> */
+</script>
+  
+  <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/yui/2.7.0/build/reset-fonts-grids/reset-fonts-grids.css" type="text/css" charset="utf-8" />
+
+<link rel="stylesheet" href="http://s1.swimg.net/gsmf/458/css/white_labels/soccerway.css" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="http://s1.swimg.net/gsmf/458/img/flags/16x16/plain/map.css" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="http://s1.swimg.net/gsmf/458/img/flags/24x24/plain/map.css" type="text/css" charset="utf-8" />
+<!--[if IE]>
+<link rel="stylesheet" href="http://s1.swimg.net/gsmf/458/css/ie.css" type="text/css" charset="utf-8" />
+<![endif]-->
+
+<script src="http://s1.swimg.net/gsmf/458/js/jsonp.js" type="text/javascript" charset="utf-8"></script>
+
+<script src="http://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js" type="text/javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if (this.$ && this.$.fn && this.$.fn.jquery) {
+  jQuery = this.$.noConflict();
+}
+</script> 
+
+<script src="http://s1.swimg.net/gsmf/458/js/all-min.js" type="text/javascript"></script>
+
+  
+  <script type="text/javascript" charset="utf-8">
+  L10nManager.initialize();
+</script>
+
+  
+  <script type="text/javascript" charset="utf-8">
+  /* <![CDATA[ */
+  dateFormat.i18n = {
+  	dayNames: ["\u65e5","\u4e00","\u4e8c","\u4e09","\u56db","\u4e94","\u516d","\u661f\u671f\u65e5","\u661f\u671f\u4e00","\u661f\u671f\u4e8c","\u661f\u671f\u4e09","\u661f\u671f\u56db","\u661f\u671f\u4e94","\u661f\u671f\u516d"],
+    monthNames: [" 1\u6708"," 2\u6708"," 3\u6708"," 4\u6708"," 5\u6708"," 6\u6708"," 7\u6708"," 8\u6708"," 9\u6708","10\u6708","11\u6708","12\u6708","\u4e00\u6708","\u4e8c\u6708","\u4e09\u6708","\u56db\u6708","\u4e94\u6708","\u516d\u6708","\u4e03\u6708","\u516b\u6708","\u4e5d\u6708","\u5341\u6708","\u5341\u4e00\u6708","\u5341\u4e8c\u6708"]
+  };
+  /* ]]> */
+</script>
+  
+  <script type="text/javascript" charset="utf-8">
+       document.domain = Config.get('base_domain');
+   </script>
+
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-263129-1']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+  document.observe('dom:loaded', function() {
+    $$('a[target="_blank"]').invoke('observe', 'click', function(evt) {
+      _gaq.push(['_trackPageview', '/outgoing/' + evt.element().readAttribute('href')]);
+    }.bindAsEventListener());
+  });
+
+</script>
+  
+  </head>
+<body id="page_match">
+<div id="top-bar">
+	<div class="container clearfix">
+		<ul class="social">
+			<li class="like_us"><a href="http://www.facebook.com/soccerway" class="facebook" target="_blank">Like Us</a></li>
+			<li class="follow_us"><a href="http://www.twitter.com/soccerway" class="twitter" target="_blank">Follow Us</a></li>
+		</ul>
+		<ul class="flyout">
+      <li class="t_l h_d sport_select">
+  <a href="http://scoresway.com/" class="t_l">Sport<span></span></a>
+  <div class="submenu" id="sport_picker">
+    <div class="col">
+      <ul>
+        <li><a href="http://www.soccerway.com/" class="sport soccer" target="_self">足球</a></li>
+        <li><a href="http://women.soccerway.com/" class="sport women_soccer" target="_blank">女子足球</a></li>
+        <li><a href="http://www.scoresway.com/?sport=american_football" class="sport american_football" target="_blank">美式足球</a></li>
+        <li><a href="http://www.scoresway.com/?sport=baseball" class="sport baseball" target="_blank">棒球</a></li>
+        <li><a href="http://www.scoresway.com/?sport=basketball" class="sport basketball" target="_blank">篮球</a></li>
+        <li><a href="http://www.scoresway.com/?sport=cricket" class="sport cricket" target="_blank">板球</a></li>
+        <li><a href="http://www.scoresway.com/?sport=handball" class="sport handball" target="_blank">手球</a></li>
+        <li><a href="http://www.scoresway.com/?sport=hockey" class="sport hockey" target="_blank">曲棍球</a></li>
+        <li><a href="http://www.scoresway.com/?sport=motorsports" class="sport motorsports" target="_blank">摩托车运动</a></li>
+        <li><a href="http://www.scoresway.com/?sport=rugby" class="sport rugby" target="_blank">橄榄球</a></li>
+        <li><a href="http://www.scoresway.com/?sport=tennis" class="sport tennis" target="_blank">网球</a></li>
+        <li><a href="http://www.scoresway.com/?sport=volleyball" class="sport volleyball" target="_blank">排球</a></li>
+      </ul>
+    </div>
+  </div>
+</li>
+
+      <li class="t_l h_d language_search">
+  <a href="/" class="t_l">Chinese (simplified)<span></span></a>
+  <div class="submenu" id="language_picker">
+    <div class="col">
+      <ul>
+        <li><a href="http://id.soccerway.com" data-l10n="id" class="flag_16 left_16 indonesia_16_left" onclick="L10nManager.process('id', true);return false;">Bahasa - Indonesia</a></li>
+        <li><a href="http://cn.soccerway.com" data-l10n="cn" class="flag_16 left_16 china-pr_16_left" onclick="L10nManager.process('cn', true);return false;">Chinese (simplified)</a></li>
+        <li><a href="http://de.soccerway.com" data-l10n="de" class="flag_16 left_16 germany_16_left" onclick="L10nManager.process('de', true);return false;">Deutsch</a></li>
+        <li><a href="http://au.soccerway.com" data-l10n="au" class="flag_16 left_16 australia_16_left" onclick="L10nManager.process('au', true);return false;">English - Australia</a></li>
+        <li><a href="http://ca.soccerway.com" data-l10n="ca" class="flag_16 left_16 canada_16_left" onclick="L10nManager.process('ca', true);return false;">English - Canada</a></li>
+        <li><a href="http://gh.soccerway.com" data-l10n="gh" class="flag_16 left_16 ghana_16_left" onclick="L10nManager.process('gh', true);return false;">English - Ghana</a></li>
+        <li><a href="http://int.soccerway.com" data-l10n="int" class="flag_16 left_16 world_16_left" onclick="L10nManager.process('int', true);return false;">English - International</a></li>
+        <li><a href="http://ie.soccerway.com" data-l10n="ie" class="flag_16 left_16 ireland-republic_16_left" onclick="L10nManager.process('ie', true);return false;">English - Ireland</a></li>
+        <li><a href="http://ke.soccerway.com" data-l10n="ke" class="flag_16 left_16 kenya_16_left" onclick="L10nManager.process('ke', true);return false;">English - Kenya</a></li>
+        <li><a href="http://my.soccerway.com" data-l10n="my" class="flag_16 left_16 malaysia_16_left" onclick="L10nManager.process('my', true);return false;">English - Malaysia</a></li>
+        <li><a href="http://ng.soccerway.com" data-l10n="ng" class="flag_16 left_16 nigeria_16_left" onclick="L10nManager.process('ng', true);return false;">English - Nigeria</a></li>
+        <li><a href="http://nr.soccerway.com" data-l10n="nr" class="flag_16 left_16 nordic_16_left" onclick="L10nManager.process('nr', true);return false;">English - Nordics</a></li>
+        <li><a href="http://sg.soccerway.com" data-l10n="sg" class="flag_16 left_16 singapore_16_left" onclick="L10nManager.process('sg', true);return false;">English - Singapore</a></li>
+        <li><a href="http://za.soccerway.com" data-l10n="za" class="flag_16 left_16 south-africa_16_left" onclick="L10nManager.process('za', true);return false;">English - South Africa</a></li>
+        <li><a href="http://uk.soccerway.com" data-l10n="uk" class="flag_16 left_16 great-britain_16_left" onclick="L10nManager.process('uk', true);return false;">English - United Kingdom</a></li>
+        <li><a href="http://us.soccerway.com" data-l10n="us" class="flag_16 left_16 united-states_16_left" onclick="L10nManager.process('us', true);return false;">English - United States</a></li>
+        <li><a href="http://es.soccerway.com" data-l10n="es" class="flag_16 left_16 spain_16_left" onclick="L10nManager.process('es', true);return false;">Español - Español</a></li>
+        <li><a href="http://el.soccerway.com" data-l10n="el" class="flag_16 left_16 latan_16_left" onclick="L10nManager.process('el', true);return false;">Español - LATAM</a></li>
+        <li><a href="http://fr.soccerway.com" data-l10n="fr" class="flag_16 left_16 france_16_left" onclick="L10nManager.process('fr', true);return false;">Français</a></li>
+        <li><a href="http://gr.soccerway.com" data-l10n="gr" class="flag_16 left_16 greece_16_left" onclick="L10nManager.process('gr', true);return false;">Greek</a></li>
+        <li><a href="http://it.soccerway.com" data-l10n="it" class="flag_16 left_16 italy_16_left" onclick="L10nManager.process('it', true);return false;">Italiano</a></li>
+        <li><a href="http://kr.soccerway.com" data-l10n="kr" class="flag_16 left_16 korea-republic_16_left" onclick="L10nManager.process('kr', true);return false;">Korean</a></li>
+        <li><a href="http://nl.soccerway.com" data-l10n="nl" class="flag_16 left_16 netherlands_16_left" onclick="L10nManager.process('nl', true);return false;">Nederlands</a></li>
+        <li><a href="http://pl.soccerway.com" data-l10n="pl" class="flag_16 left_16 poland_16_left" onclick="L10nManager.process('pl', true);return false;">Polski</a></li>
+        <li><a href="http://pt.soccerway.com" data-l10n="pt" class="flag_16 left_16 portugal_16_left" onclick="L10nManager.process('pt', true);return false;">Português</a></li>
+        <li><a href="http://br.soccerway.com" data-l10n="br" class="flag_16 left_16 brazil_16_left" onclick="L10nManager.process('br', true);return false;">Brazil</a></li>
+        <li><a href="http://ro.soccerway.com" data-l10n="ro" class="flag_16 left_16 romania_16_left" onclick="L10nManager.process('ro', true);return false;">Româna</a></li>
+        <li><a href="http://th.soccerway.com" data-l10n="th" class="flag_16 left_16 thailand_16_left" onclick="L10nManager.process('th', true);return false;">Thai</a></li>
+        <li><a href="http://tr.soccerway.com" data-l10n="tr" class="flag_16 left_16 turkey_16_left" onclick="L10nManager.process('tr', true);return false;">Türkçe</a></li>
+        <li><a href="http://ru.soccerway.com" data-l10n="ru" class="flag_16 left_16 russia_16_left" onclick="L10nManager.process('ru', true);return false;">Русский</a></li>
+        <li><a href="http://ar.soccerway.com" data-l10n="ar" class="flag_16 left_16 world_16_left" onclick="L10nManager.process('ar', true);return false;">العربية</a></li>
+      </ul>
+    </div>
+  </div>
+</li>
+
+    
+    </ul>
+	</div>
+</div>
+<header id="site-header">
+	<div class="container">
+    <div id="logo-bar" class="big-localized-cn">
+  <a href="/" id="logo" class="localized-cn">Soccerway</a>
+  <div class="banner-content">
+    <div id="top-right-banner">
+      <div class="block_ad ad_header block clearfix">
+  
+
+
+
+
+
+<!--JavaScript Tag // Tag for network 327: Perform // Website: Soccerway // Page: Matches 2013 // Placement: Matches 2013-Leaderboard-728 x 90 (4236545) // created at: Jan 18, 2013 11:03:41 AM-->
+<script language="javascript">
+<!--
+if (window.adgroupid == undefined) {
+ window.adgroupid = Math.round(Math.random() * 1000);
+}
+document.write('<script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|327|4236545|0|225|ADTECH;cookie=info;loc=100;target=_blank;sub1=[subst];kvcomp=8;kvteam=691:675;grp='+window.adgroupid+';misc='+new Date().getTime()+';kvenv=production;kvlang=cn"></script>');
+//-->
+</script><noscript><a href="http://adserver.adtech.de/adlink|3.0|327|4236545|0|225|ADTECH;loc=300;kvcomp=8;kvteam=691:675;sub1=[subst];kvenv=production;kvlang=cn" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|327|4236545|0|225|ADTECH;cookie=info;loc=300;kvcomp=8;kvteam=691:675;kvenv=production;kvlang=cn;" border="0" width="728" height="90"></a></noscript>
+<!-- End of JavaScript Tag -->
+
+
+</div>
+    </div>
+  </div>
+</div>
+
+
+    <nav id="main">
+  <ul class="clearfix t_l">
+    <li class="t_l has-dropdown">
+      <a href="/?ICID=TN_01" class="t_l">今天</a>
+      <a href="/?ICID=TN_01" class="dropdown-button" id="today-dropdown-button">#</a>    
+      <div class="dropdown cal-dropdown" style="display: none;" id="today-dropdown">
+        <h2>日程表</h2>
+        <div class="calendar-container clearfix">
+  <div id="dropdown-cal" class="calendar"></div>
+</div>
+
+<script type="text/javascript" charset="utf-8">
+  /* <![CDATA[ */
+  (function() {
+    Object.extend(Date.prototype, {
+      monthnames: dateFormat.i18n.monthNames.slice(0, 11),
+      short_monthnames: dateFormat.i18n.monthNames.slice(11, 21),
+      daynames: dateFormat.i18n.dayNames.slice(0, 7),
+      short_daynames: dateFormat.i18n.dayNames.slice(7, 13)
+    });
+
+    var changeHandler = function(date) {
+      var year = date.getFullYear().toString(),
+          month = (date.getMonth() + 1).toString(),
+          day = date.getDate().toString(),
+          url,
+          url_prefix = '/matches/',
+          url_suffix = '?ICID=TN_01';
+      var today = new Date();
+      var today_year = today.getFullYear().toString(),
+          today_month = (today.getMonth() + 1).toString(),
+          today_day = today.getDate().toString(),
+          today_url = '';
+
+      if (today_url != '' && year == today_year && month == today_month && day == today_day) {
+        window.location.href = today_url;
+      } else {
+        if (month.length === 1) month = '0' + month;
+        if (day.length === 1) day = '0' + day;
+        url = url_prefix + year + '/' + month + '/' + day + '/';
+        if (url_suffix != '' && url_suffix != '/') {
+          url += url_suffix;
+        }
+        window.location.href = url;
+      }
+    };
+
+    var cal_initialized = false;
+    function initializeCalendar(){
+      if (cal_initialized == false) {
+        var cal = new scal('dropdown-cal', changeHandler, {
+          dayheadlength: 3,
+          highlightselected: ('2013' != ''),
+          year: parseInt('2013'),
+          month: parseInt('10'),
+          day: parseInt('17')
+        });
+        cal_initialized = true;
+      }
+    }
+
+    if (1){
+      $('today-dropdown-button').observe('click', initializeCalendar);
+    }
+    else{
+      initializeCalendar();
+    }
+
+  })();
+  /* ]]> */
+</script>
+      </div>
+    </li>
+    
+    <li class="t_l h_d">
+      <a href="/competitions/?ICID=TN_03" class="t_l">竞赛</a>
+      <div class="submenu col_4 clearfix">
+        <div class="col">
+          <ul>
+            <li class="title">国内球会赛事</li>
+            <li><a href="/national/england/premier-league/c8/?ICID=TN_03_01_01" class="flag_16 left_16 england_16_left">英超联赛</a></li>
+            <li><a href="/national/italy/serie-a/c13/?ICID=TN_03_01_02" class="flag_16 left_16 italy_16_left">意甲联赛</a></li>
+            <li><a href="/national/spain/primera-division/c7/?ICID=TN_03_01_03" class="flag_16 left_16 spain_16_left">西甲联赛</a></li>
+            <li><a href="/national/germany/bundesliga/c9/?ICID=TN_03_01_04" class="flag_16 left_16 germany_16_left">德甲联赛</a></li>
+            <li><a href="/national/france/ligue-1/c16/?ICID=TN_03_01_05" class="flag_16 left_16 france_16_left">法甲联赛</a></li>
+            <li><a href="/national/netherlands/eredivisie/c1/?ICID=TN_03_01_06" class="flag_16 left_16 netherlands_16_left">甲级联赛</a></li>
+            <li><a href="/national/turkey/super-lig/c19/?ICID=TN_03_01_07" class="flag_16 left_16 turkey_16_left">超级联赛</a></li>
+            <li><a href="/national/portugal/portuguese-liga-/c63/?ICID=TN_03_01_08" class="flag_16 left_16 portugal_16_left">超级联赛</a></li>
+            <li><a href="/national/england/championship/c70/?ICID=TN_03_01_09" class="flag_16 left_16 england_16_left">冠军联赛</a></li>
+            <li><a href="/national/brazil/serie-a/c26/?ICID=TN_03_01_10" class="flag_16 left_16 brazil_16_left">甲级联赛</a></li>
+          </ul>
+          <a href="/competitions/club-domestic/?ICID=TN_03_01" class="all">显示所有<img src="http://s1.swimg.net/gsmf/458/img/spacer.gif" alt="" /></a>
+        </div>
+        <div class="col">
+          <ul>
+            <li class="title">国际球会赛事</li>
+            <li class="sub-title">欧洲</li>
+            <li><a href="/international/europe/uefa-champions-league/c10/?ICID=TN_03_02_01" class="flag_16 left_16 europe_16_left">Champions League</a></li>
+            <li><a href="/international/europe/uefa-cup/c18/?ICID=TN_03_02_02" class="flag_16 left_16 europe_16_left">Europa League</a></li>
+            <li><a href="/international/europe/uefa-super-cup/c211/?ICID=TN_03_02_03" class="flag_16 left_16 europe_16_left">Super Cup</a></li>
+            <li class="sub-title">亚洲</li>
+            <li><a href="/international/asia/afc-champions-league/c251/?ICID=TN_03_02_04" class="flag_16 left_16 asia_16_left">Champions League</a></li>
+            <li><a href="/international/asia/afc-cup/c253/?ICID=TN_03_02_05" class="flag_16 left_16 asia_16_left">亚洲足协杯</a></li>
+            <li class="sub-title">南美洲</li>
+            <li><a href="/international/south-america/copa-libertadores/c241/?ICID=TN_03_02_06" class="flag_16 left_16 south-america_16_left">自由杯</a></li>
+            <li><a href="/international/south-america/copa-sudamericana/c297/?ICID=TN_03_02_07" class="flag_16 left_16 south-america_16_left">南美杯</a></li>
+          </ul>
+          <a href="/competitions/club-international/?ICID=TN_03_02" class="all">显示所有<img src="http://s1.swimg.net/gsmf/458/img/spacer.gif" alt="" /></a>
+        </div>
+        <div class="col">
+          <ul>
+            <li class="title">National</li>
+            <li><a href="/international/world/world-cup/c72/?ICID=TN_03_03_01" class="flag_16 left_16 world_16_left" title="世界杯">世界杯</a></li>
+            <li><a href="/international/world/olympics/c221/?ICID=TN_03_03_02" class="flag_16 left_16 world_16_left" title="奥运会">奥运会</a></li>
+            <li><a href="/international/europe/european-championships/c25/?ICID=TN_03_03_03" class="flag_16 left_16 europe_16_left" title="欧洲足球锦标赛">Euro 2012</a></li>
+            <li><a href="/international/south-america/copa-america/c288/?ICID=TN_03_03_04" class="flag_16 left_16 south-america_16_left" title="美洲杯">美洲杯</a></li>
+            <li><a href="/international/nc-america/concacaf-gold-cup/c247/?ICID=TN_03_03_05" class="flag_16 left_16 nc-america_16_left" title="中北美金杯赛">Gold Cup</a></li>
+            <li><a href="/international/asia/asian-cup/c250/?ICID=TN_03_03_06" class="flag_16 left_16 asia_16_left" title="亚洲杯">亚洲杯</a></li>
+            <li><a href="/international/africa/africa-cup-of-nations/c385/?ICID=TN_03_03_07" class="flag_16 left_16 africa_16_left" title="非洲国家杯">非洲国家杯</a></li>
+            <li><a href="/international/world/confederations-cup/c246/?ICID=TN_03_03_08" class="flag_16 left_16 world_16_left" title="联合会杯">联合会杯</a></li>
+            <li><a href="/international/world/u20-world-cup/c274/?ICID=TN_03_03_09" class="flag_16 left_16 world_16_left" title="世界青年锦标赛">世界青年锦标赛</a></li>
+            <li><a href="/international/europe/uefa-u21-championship/c280/?ICID=TN_03_03_10" class="flag_16 left_16 europe_16_left" title="欧洲21岁以下锦标赛">Euro U21 Champ</a></li>
+          </ul>
+          <a href="/competitions/national/?ICID=TN_03_03" class="all">显示所有<img src="http://s1.swimg.net/gsmf/458/img/spacer.gif" alt="" /></a>
+        </div>
+        <div class="col">
+          <ul>
+            <li class="title">女子</li>
+            <li><a href="http://women.soccerway.com/national/germany/frauen-bundesliga/c290/?ICID=TN_03_04_01" class="flag_16 left_16 germany_16_left" target="_blank">甲级联赛</a></li>
+            <li><a href="http://women.soccerway.com/national/sweden/damallsvenskan/c291/?ICID=TN_03_04_02" class="flag_16 left_16 sweden_16_left" target="_blank">超级联赛</a></li>
+            <li><a href="http://women.soccerway.com/national/england/wsl/c886/?ICID=TN_03_04_03" class="flag_16 left_16 england_16_left" target="_blank">WSL</a></li>
+            <li><a href="http://women.soccerway.com/national/united-states/wps/c707/?ICID=TN_03_04_04" class="flag_16 left_16 united-states_16_left" target="_blank">WPS</a></li>
+            <li><a href="http://women.soccerway.com/national/norway/toppserien/c289/?ICID=TN_03_04_05" class="flag_16 left_16 norway_16_left" target="_blank">超级联赛</a></li>
+            <li><a href="http://women.soccerway.com/national/france/feminine-division-1/c328/?ICID=TN_03_04_06" class="flag_16 left_16 france_16_left" target="_blank">Feminine Division 1</a></li>
+            <li><a href="http://women.soccerway.com/international/world/womens-world-cup/c368/?ICID=TN_03_04_07" class="flag_16 left_16 world_16_left" target="_blank">女足世界杯</a></li>
+            <li><a href="http://women.soccerway.com/international/world/olympics-women/c645/?ICID=TN_03_04_08" class="flag_16 left_16 world_16_left" target="_blank">奥运会女足</a></li>
+            <li><a href="http://women.soccerway.com/international/europe/uefa-womens-championship/c268/?ICID=TN_03_04_09" class="flag_16 left_16 europe_16_left" target="_blank">Women's Euro</a></li>
+            <li><a href="http://women.soccerway.com/international/europe/uefa-womens-champions-league/c336/?ICID=TN_03_04_10" class="flag_16 left_16 europe_16_left" target="_blank">Champions League</a></li>
+          </ul>
+          <a href="/competitions/women/?ICID=TN_03_04" class="all">显示所有<img src="http://s1.swimg.net/gsmf/458/img/spacer.gif" alt="" /></a>
+        </div>
+      </div>
+    </li>
+    <li class="t_l h_d">
+      <a href="/teams/?ICID=TN_04" class="t_l">球队</a>
+      <div class="submenu col_3 clearfix">
+        <div class="col">
+          <ul>
+            <li class="title">Club teams</li>
+            <li><a href="/teams/spain/futbol-club-barcelona/2017/?ICID=TN_04_01_01" class="flag_16 left_16 spain_16_left">巴塞罗那</a></li>
+            <li><a href="/teams/spain/real-madrid-club-de-futbol/2016/?ICID=TN_04_01_02" class="flag_16 left_16 spain_16_left">皇家马德里</a></li>
+            <li><a href="/teams/england/manchester-united-fc/662/?ICID=TN_04_01_03" class="flag_16 left_16 england_16_left">曼联</a></li>
+            <li><a href="/teams/england/arsenal-fc/660/?ICID=TN_04_01_04" class="flag_16 left_16 england_16_left">阿森纳</a></li>
+            <li><a href="/teams/england/liverpool-fc/663/?ICID=TN_04_01_05" class="flag_16 left_16 england_16_left">利物浦</a></li>
+            <li><a href="/teams/italy/fc-internazionale-milano/1244/?ICID=TN_04_01_06" class="flag_16 left_16 italy_16_left">国际米兰</a></li>
+            <li><a href="/teams/italy/ac-milan/1240/?ICID=TN_04_01_07" class="flag_16 left_16 italy_16_left">AC米兰</a></li>
+            <li><a href="/teams/germany/fc-bayern-munchen/961/?ICID=TN_04_01_08" class="flag_16 left_16 germany_16_left">拜仁慕尼黑</a></li>
+            <li><a href="/teams/portugal/futebol-clube-do-porto/1678/?ICID=TN_04_01_09" class="flag_16 left_16 portugal_16_left">波尔图</a></li>
+            <li><a href="/teams/argentina/boca-juniors/95/?ICID=TN_04_01_10" class="flag_16 left_16 argentina_16_left">博卡青年</a></li>
+            <a href="/teams/club-teams/?ICID=TN_04_01" class="all">显示所有<img src="http://s1.swimg.net/gsmf/458/img/spacer.gif" alt="" /></a>
+          </ul>
+        </div>
+        <div class="col">
+          <ul>
+            <li class="title">国家队赛事</li>
+            <li><a href="/teams/spain/spain/2137/?ICID=TN_04_02_01" class="flag_16 left_16 spain_16_left">西班牙</a></li>
+            <li><a href="/teams/netherlands/netherlands/1552/?ICID=TN_04_02_02" class="flag_16 left_16 netherlands_16_left">荷兰</a></li>
+            <li><a href="/teams/germany/germany/1037/?ICID=TN_04_02_03" class="flag_16 left_16 germany_16_left">德国</a></li>
+            <li><a href="/teams/england/england/774/?ICID=TN_04_02_04" class="flag_16 left_16 england_16_left">英格兰</a></li>
+            <li><a href="/teams/brazil/brazil/349/?ICID=TN_04_02_05" class="flag_16 left_16 brazil_16_left">巴西</a></li>
+            <li><a href="/teams/argentina/argentina/132/?ICID=TN_04_02_06" class="flag_16 left_16 argentina_16_left">阿根廷</a></li>
+            <li><a href="/teams/italy/italy/1318/?ICID=TN_04_02_07" class="flag_16 left_16 italy_16_left">意大利</a></li>
+            <li><a href="/teams/portugal/portugal/1772/?ICID=TN_04_02_08" class="flag_16 left_16 portugal_16_left">葡萄牙</a></li>
+            <li><a href="/teams/france/france/944/?ICID=TN_04_02_09" class="flag_16 left_16 france_16_left">法国</a></li>
+            <li><a href="/teams/russia/russia/1878/?ICID=TN_04_02_10" class="flag_16 left_16 russia_16_left">俄罗斯</a></li>
+            <a href="/teams/national-teams/?ICID=TN_04_02" class="all">显示所有<img src="http://s1.swimg.net/gsmf/458/img/spacer.gif" alt="" /></a>
+          </ul>
+        </div>
+        <div class="col">
+          <ul>
+            <li class="title">更多</li>
+            <li><a href="/teams/rankings/fifa/?ICID=TN_04_03_01">FIFA Rankings</a></li>
+            <li><a href="/teams/comparison/?ICID=TN_04_03_02">直接比较</a></li>
+          </ul>
+        </div>
+      </div>
+    </li>
+    <li class="t_l h_d">
+      <a href="/players/?ICID=TN_05" class="t_l">球员</a>
+      <div class="submenu col_2 clearfix">
+        <div class="col">
+          <ul>
+            <li class="title">球员</li>
+            <li><a href="/players/lionel-andres-messi/119/?ICID=TN_05_01_01" class="flag_16 left_16 argentina_16_left">L. Messi</a></li>
+            <li><a href="/players/cristiano-ronaldo-dos-santos-aveiro/382/?ICID=TN_05_01_02" class="flag_16 left_16 portugal_16_left">C. Ronaldo</a></li>
+            <li><a href="/players/wayne-rooney/193/?ICID=TN_05_01_03" class="flag_16 left_16 england_16_left">W. Rooney</a></li>
+            <li><a href="/players/xavier-hernandez-creus/333/?ICID=TN_05_01_04" class="flag_16 left_16 spain_16_left">X. Hernández</a></li>
+            <li><a href="/players/didier-drogba/310/?ICID=TN_05_01_05" class="flag_16 left_16 cote-divoire_16_left">D. Drogba</a></li>
+            <li><a href="/players/andres-iniesta-lujan/329/?ICID=TN_05_01_06" class="flag_16 left_16 spain_16_left">A. Iniesta</a></li>
+            <li><a href="/players/fernando-jose-torres-sanz/334/?ICID=TN_05_01_07" class="flag_16 left_16 spain_16_left">F. Torres</a></li>
+            <li><a href="/players/steven-gerrard/186/?ICID=TN_05_01_08" class="flag_16 left_16 england_16_left">S. Gerrard</a></li>
+            <li><a href="/players/samuel-eto-o/2994/?ICID=TN_05_01_09" class="flag_16 left_16 cameroon_16_left">S. Eto'o</a></li>
+            <li><a href="/players/francesc-fabregas-soler/328/?ICID=TN_05_01_10" class="flag_16 left_16 spain_16_left">C. Fàbregas</a></li>
+          </ul>
+        </div>
+        <div class="col">
+          <ul>
+            <li class="title">更多</li>
+            <li><a href="/players/transfers/?ICID=TN_05_02_01">转会及借贷</a></li>
+            <li><a href="/players/topscorers/?ICID=TN_05_02_02">最佳射手</a></li>
+            <li><a href="/players/disciplinary/?ICID=TN_05_02_03">纪律</a></li>
+            <li><a href="/players/birthday/?ICID=TN_05_02_04">生日</a></li>
+            <li><a href="/players/players_abroad/?ICID=TN_05_02_05">Players abroad</a></li>
+          </ul>
+        </div>
+      </div>
+    </li>
+    
+    <li class="t_l h_d more">
+      <a href="/about/?ICID=TN_08" class="t_l">更多</a>
+      <div class="submenu col_2 clearfix" id="submenu_more">
+        <div class="col">
+          <ul>
+            <li class="title">About</li>
+            <li><a href="/about/?ICID=TN_06_01_01">About</a></li>
+            <li><a href="/advertising/?ICID=TN_06_01_02">广告</a></li>
+            <li><a href="/contact/?ICID=TN_06_01_03">联系我们</a></li>
+            <li><a href="/terms/?ICID=TN_06_01_04">条款</a></li>
+          </ul>
+          <ul>
+            <li class="title">Content</li>
+            <li ><a href="/news/?ICID=TN_02" >新闻</a></li>
+            <li><a href="/videos/?ICID=TN_07" >Videos</a></li>
+            <li><a href="http://widgets.soccerway.com/">Widgets</a></li>
+            <li><a href="/syndication/?ICID=TN_06_02_03">Content</a></li>
+          </ul>
+        </div>
+        <div class="col">
+          <ul>
+            <li class="title">手机</li>
+            <li><a href="/iphone/?ICID=TN_06_03_01">iPhone</a></li>
+            <li><a href="/iphone/?ICID=TN_06_03_02">iPad</a></li>
+            <li><a href="http://www.soccerway.mobi/">PDA/WAP</a></li>
+            <li>&nbsp;</li>
+          </ul>
+          <ul>
+            <li class="title">Social</li>
+            <li><a href="http://www.facebook.com/soccerway" class="facebook" target="_blank">Facebook</a></li>
+            <li><a href="http://www.twitter.com/soccerway" class="twitter" target="_blank">Twitter</a></li>
+          </ul>
+        </div>
+      </div>
+    </li>
+  </ul>
+</nav>
+<form accept-charset="utf-8" method="get" action="/search/" id="search">
+  <div id="search-input-wrap">
+    <input type="text" id="search-input" value="搜索" name="q">
+    <div id="search-input-submit">&nbsp;</div>
+  </div>
+  <input type="hidden" value="all" name="module">
+</form>
+
+<script type="text/javascript">
+  (function(){
+    DropdownManager.create('today-dropdown', 'today-dropdown-button');
+
+    // delay submenu hovers
+    var timer;
+    $('main').select('li.h_d').each(function(el){
+      el.observe('mouseenter', function(evt){
+        var that = this;
+        timer = window.setTimeout(function(){
+          that.addClassName('active');
+          if ($(that).select('#submenu_more').size() > 0) {
+            var more = $(that).select('#submenu_more').first();
+            var pos = $(that).positionedOffset();
+            var h = that.getHeight();
+            
+            more.setStyle({
+                    'position': 'absolute',
+                    'top': (pos['top'] + h) + 'px',
+                    'left': pos['left']+'px'
+                  });
+
+          } 
+        }, 250);
+      });
+      el.observe('mouseleave', function(evt){
+        window.clearTimeout(timer);
+        el.removeClassName('active');
+      });
+    });
+
+    var searchbox = $('search-input-submit');
+    var searchinput = $('search-input');
+    Event.observe(searchbox, 'click', function(event){ $('search').submit();});
+    Event.observe(searchinput, 'focus', function(event){ if( searchinput.value == '搜索') searchinput.value = '';});
+    Event.observe(searchinput, 'blur', function(event){ if( searchinput.value.trim() == '') searchinput.value = '搜索';});
+  })();
+</script>
+ 		
+	</div>
+</header>
+
+<div id="doc4" class="yui-t6">  
+  <div id="hd">
+    <div class="block_navbar block block-nomb clearfix" id="block_navbar_16">
+  <div id="navbar" class="clearfix">
+  <div id="navbar-left">
+    <select size="1" class="first  nav-select" onchange="window.location.href = $F(this);">
+    <option value="" selected="selected">CN 竞赛</option>
+
+
+      <optgroup label="中华人民共和国">
+        <option value="/national/china-pr/csl/c51/?ICID=SN_01_01">超级联赛</option><option value="/national/china-pr/china-league-one/c148/?ICID=SN_01_02">甲级联赛</option><option value="/national/china-pr/fa-cup/c276/?ICID=SN_01_03">足协杯</option><option value="/national/china-pr/csl-cup/c204/?ICID=SN_01_04">中超杯</option><option value="/national/china-pr/super-cup/c1123/?ICID=SN_01_05">超级杯</option>
+      </optgroup>
+    </select>
+    <select size="1" class="  nav-select" onchange="window.location.href = $F(this);">
+    <option value="" selected="selected">国内球会赛事 (906)</option>
+
+      <option value="/national/bhutan/a31/?ICID=SN_02_01">不丹 (2)</option><option value="/national/china-pr/a49/?ICID=SN_02_02">中华人民共和国 (5)</option><option value="/national/chinese-taipei/a50/?ICID=SN_02_03">中国台北 (3)</option><option value="/national/denmark/a61/?ICID=SN_02_04">丹麦 (13)</option><option value="/national/ukraine/a201/?ICID=SN_02_05">乌克兰 (9)</option><option value="/national/uganda/a200/?ICID=SN_02_06">乌干达 (2)</option><option value="/national/uruguay/a204/?ICID=SN_02_07">乌拉圭 (3)</option><option value="/national/uzbekistan/a205/?ICID=SN_02_08">乌茲別克斯坦 (3)</option><option value="/national/chad/a47/?ICID=SN_02_09">乍得 (1)</option><option value="/national/yemen/a210/?ICID=SN_02_10">也门 (3)</option><option value="/national/armenia/a17/?ICID=SN_02_11">亚美尼亚 (4)</option><option value="/national/israel/a99/?ICID=SN_02_12">以色列 (11)</option><option value="/national/iraq/a97/?ICID=SN_02_13">伊拉克 (1)</option><option value="/national/iran/a96/?ICID=SN_02_14">伊朗 (4)</option><option value="/national/belize/a28/?ICID=SN_02_15">伯利茲 (1)</option><option value="/national/cape-verde-islands/a44/?ICID=SN_02_16">佛得角群岛 (1)</option><option value="/national/russia/a160/?ICID=SN_02_17">俄罗斯 (12)</option><option value="/national/bulgaria/a38/?ICID=SN_02_18">保加利亚 (8)</option><option value="/national/croatia/a56/?ICID=SN_02_19">克罗地亚 (8)</option><option value="/national/guam/a84/?ICID=SN_02_20">关岛 (1)</option><option value="/national/gambia/a78/?ICID=SN_02_21">冈比亚 (1)</option><option value="/national/iceland/a93/?ICID=SN_02_22">冰岛 (14)</option><option value="/national/liechtenstein/a116/?ICID=SN_02_23">列支敦士登 (1)</option><option value="/national/congo/a52/?ICID=SN_02_24">刚果 (1)</option><option value="/national/congo-dr/a53/?ICID=SN_02_25">刚果民主共和国 (1)</option><option value="/national/libya/a115/?ICID=SN_02_26">利比亚 (2)</option><option value="/national/liberia/a114/?ICID=SN_02_27">利比里亚 (1)</option><option value="/national/canada/a43/?ICID=SN_02_28">加拿大 (3)</option><option value="/national/ghana/a81/?ICID=SN_02_29">加纳 (1)</option><option value="/national/gabon/a77/?ICID=SN_02_30">加蓬 (1)</option><option value="/national/hungary/a92/?ICID=SN_02_31">匈牙利 (14)</option><option value="/national/northern-ireland/a145/?ICID=SN_02_32">北爱尔兰 (10)</option><option value="/national/south-africa/a175/?ICID=SN_02_33">南非 (6)</option><option value="/national/botswana/a34/?ICID=SN_02_34">博茨瓦纳 (1)</option><option value="/national/qatar/a158/?ICID=SN_02_35">卡塔尔 (7)</option><option value="/national/rwanda/a161/?ICID=SN_02_36">卢旺达 (1)</option><option value="/national/luxembourg/a118/?ICID=SN_02_37">卢森堡 (8)</option><option value="/national/indonesia/a95/?ICID=SN_02_38">印尼 (5)</option><option value="/national/india/a94/?ICID=SN_02_39">印度 (7)</option><option value="/national/guatemala/a85/?ICID=SN_02_40">危地马拉 (2)</option><option value="/national/ecuador/a65/?ICID=SN_02_41">厄瓜多尔 (2)</option><option value="/national/syria/a186/?ICID=SN_02_42">叙利亚 (1)</option><option value="/national/cuba/a57/?ICID=SN_02_43">古巴 (1)</option><option value="/national/kyrgyzstan/a109/?ICID=SN_02_44">吉尔吉斯斯坦 (1)</option><option value="/national/djibouti/a62/?ICID=SN_02_45">吉布提 (1)</option><option value="/national/kazakhstan/a104/?ICID=SN_02_46">哈萨克斯坦 (4)</option><option value="/national/colombia/a51/?ICID=SN_02_47">哥伦比亚 (5)</option><option value="/national/costa-rica/a55/?ICID=SN_02_48">哥斯达黎加 (4)</option><option value="/national/cameroon/a42/?ICID=SN_02_49">喀麦隆 (1)</option><option value="/national/reunion/a223/?ICID=SN_02_50">团圆 (1)</option><option value="/national/tuvalu/a233/?ICID=SN_02_51">图瓦卢 (2)</option><option value="/national/turkmenistan/a197/?ICID=SN_02_52">土库曼斯坦 (1)</option><option value="/national/turkey/a196/?ICID=SN_02_53">土耳其 (12)</option><option value="/national/st-kitts-and-nevis/a178/?ICID=SN_02_54">圣基茨和尼维斯 (1)</option><option value="/national/sao-tome-e-principe/a187/?ICID=SN_02_55">圣多美和普林西比 (1)</option><option value="/national/san-marino/a163/?ICID=SN_02_56">圣马力诺 (3)</option><option value="/national/guyana/a88/?ICID=SN_02_57">圭亚那 (1)</option><option value="/national/tanzania/a190/?ICID=SN_02_58">坦桑尼亚 (1)</option><option value="/national/egypt/a66/?ICID=SN_02_59">埃及 (4)</option><option value="/national/ethiopia/a72/?ICID=SN_02_60">埃塞俄比亚 (1)</option><option value="/national/tajikistan/a189/?ICID=SN_02_61">塔吉克斯坦 (1)</option><option value="/national/tahiti/a188/?ICID=SN_02_62">塔希提岛 (1)</option><option value="/national/senegal/a166/?ICID=SN_02_63">塞內加尔 (1)</option><option value="/national/serbia/a224/?ICID=SN_02_64">塞尔维亚 (5)</option><option value="/national/serbia-and-montenegro/a167/?ICID=SN_02_65">塞尔维亚和黑山 (5)</option><option value="/national/sierra-leone/a169/?ICID=SN_02_66">塞拉利昂 (1)</option><option value="/national/cyprus/a58/?ICID=SN_02_67">塞浦路斯 (8)</option><option value="/national/seychelles/a168/?ICID=SN_02_68">塞舌尔 (1)</option><option value="/national/mexico/a129/?ICID=SN_02_69">墨西哥 (6)</option><option value="/national/togo/a192/?ICID=SN_02_70">多哥 (1)</option><option value="/national/dominica/a63/?ICID=SN_02_71">多米尼克 (1)</option><option value="/national/dominican-republic/a64/?ICID=SN_02_72">多米尼加共和国 (1)</option><option value="/national/korea-republic/a107/?ICID=SN_02_73">大韩民国 (7)</option><option value="/national/austria/a20/?ICID=SN_02_74">奧地利 (10)</option><option value="/national/venezuela/a207/?ICID=SN_02_75">委內瑞拉 (3)</option><option value="/national/wales/a209/?ICID=SN_02_76">威尔士 (4)</option><option value="/national/bangladesh/a24/?ICID=SN_02_77">孟加拉国 (1)</option><option value="/national/angola/a13/?ICID=SN_02_78">安哥拉 (2)</option><option value="/national/antigua-and-barbuda/a15/?ICID=SN_02_79">安提瓜和巴布达 (1)</option><option value="/national/andorra/a12/?ICID=SN_02_80">安道​​尔 (5)</option><option value="/national/nicaragua/a142/?ICID=SN_02_81">尼加拉瓜 (1)</option><option value="/national/nigeria/a144/?ICID=SN_02_82">尼日利亚 (1)</option><option value="/national/niger/a143/?ICID=SN_02_83">尼日尔 (1)</option><option value="/national/nepal/a137/?ICID=SN_02_84">尼泊尔 (2)</option><option value="/national/palestine/a149/?ICID=SN_02_85">巴勒斯坦 (1)</option><option value="/national/bahamas/a22/?ICID=SN_02_86">巴哈马 (1)</option><option value="/national/pakistan/a148/?ICID=SN_02_87">巴基斯坦 (2)</option><option value="/national/barbados/a25/?ICID=SN_02_88">巴巴多斯 (1)</option><option value="/national/papua-new-guinea/a151/?ICID=SN_02_89">巴布亚新几內亚 (1)</option><option value="/national/paraguay/a152/?ICID=SN_02_90">巴拉圭 (3)</option><option value="/national/panama/a150/?ICID=SN_02_91">巴拿马 (1)</option><option value="/national/bahrain/a23/?ICID=SN_02_92">巴林 (3)</option><option value="/national/brazil/a35/?ICID=SN_02_93">巴西 (58)</option><option value="/national/burkina-faso/a39/?ICID=SN_02_94">布基纳法索 (1)</option><option value="/national/burundi/a40/?ICID=SN_02_95">布隆迪 (1)</option><option value="/national/greece/a82/?ICID=SN_02_96">希腊 (10)</option><option value="/national/cook-islands/a54/?ICID=SN_02_97">库克群岛 (1)</option><option value="/national/curacao/a139/?ICID=SN_02_98">库拉索岛 (2)</option><option value="/national/cayman-islands/a45/?ICID=SN_02_99">开曼群岛 (1)</option><option value="/national/germany/a80/?ICID=SN_02_100">德国 (18)</option><option value="/national/italy/a100/?ICID=SN_02_101">意大利 (16)</option><option value="/national/solomon-islands/a173/?ICID=SN_02_102">所罗门群岛 (1)</option><option value="/national/latvia/a111/?ICID=SN_02_103">拉脱维亚 (6)</option><option value="/national/norway/a146/?ICID=SN_02_104">挪威 (11)</option><option value="/national/czech-republic/a59/?ICID=SN_02_105">捷克共和国 (12)</option><option value="/national/moldova/a130/?ICID=SN_02_106">摩尔多瓦 (6)</option><option value="/national/morocco/a133/?ICID=SN_02_107">摩洛哥 (3)</option><option value="/national/brunei-darussalam/a37/?ICID=SN_02_108">文莱 (1)</option><option value="/national/fiji/a74/?ICID=SN_02_109">斐济 (1)</option><option value="/national/swaziland/a183/?ICID=SN_02_110">斯威士兰 (1)</option><option value="/national/slovakia/a171/?ICID=SN_02_111">斯洛伐克 (6)</option><option value="/national/slovenia/a172/?ICID=SN_02_112">斯洛文尼亚 (8)</option><option value="/national/sri-lanka/a177/?ICID=SN_02_113">斯里兰卡 (1)</option><option value="/national/singapore/a170/?ICID=SN_02_114">新加坡 (3)</option><option value="/national/new-caledonia/a140/?ICID=SN_02_115">新喀裡多尼亚 (1)</option><option value="/national/new-zealand/a141/?ICID=SN_02_116">新西兰 (3)</option><option value="/national/japan/a102/?ICID=SN_02_117">日本 (8)</option><option value="/national/chile/a48/?ICID=SN_02_118">智利 (9)</option><option value="/national/cambodia/a41/?ICID=SN_02_119">柬埔寨 (2)</option><option value="/national/grenada/a83/?ICID=SN_02_120">格林纳达 (1)</option><option value="/national/georgia/a79/?ICID=SN_02_121">格鲁吉亚 (7)</option><option value="/national/belgium/a27/?ICID=SN_02_122">比利时 (17)</option><option value="/national/mauritania/a127/?ICID=SN_02_123">毛里塔尼亚 (1)</option><option value="/national/mauritius/a128/?ICID=SN_02_124">毛里求斯 (1)</option><option value="/national/saudi-arabia/a164/?ICID=SN_02_125">沙特阿拉伯 (7)</option><option value="/national/france/a76/?ICID=SN_02_126">法国 (14)</option><option value="/national/french-guyana/a231/?ICID=SN_02_127">法属圭亚那 (1)</option><option value="/national/faroe-islands/a73/?ICID=SN_02_128">法罗群岛 (9)</option><option value="/national/poland/a155/?ICID=SN_02_129">波兰 (11)</option><option value="/national/puerto-rico/a157/?ICID=SN_02_130">波多黎各 (1)</option><option value="/national/bosnia-herzegovina/a33/?ICID=SN_02_131">波斯尼亚 - 黑塞哥维那 (3)</option><option value="/national/thailand/a191/?ICID=SN_02_132">泰国 (3)</option><option value="/national/zimbabwe/a212/?ICID=SN_02_133">津巴布韦 (1)</option><option value="/national/honduras/a90/?ICID=SN_02_134">洪都拉斯 (1)</option><option value="/national/haiti/a89/?ICID=SN_02_135">海地 (3)</option><option value="/national/australia/a19/?ICID=SN_02_136">澳大利亚 (16)</option><option value="/national/macao/a119/?ICID=SN_02_137">澳门 (1)</option><option value="/national/ireland-republic/a98/?ICID=SN_02_138">爱尔兰共和国 (8)</option><option value="/national/estonia/a71/?ICID=SN_02_139">爱沙尼亚 (13)</option><option value="/national/jamaica/a101/?ICID=SN_02_140">牙买加 (1)</option><option value="/national/turks-and-caicos-islands/a198/?ICID=SN_02_141">特克斯和凯科斯群岛 (1)</option><option value="/national/trinidad-and-tobago/a194/?ICID=SN_02_142">特里尼达和多巴哥 (1)</option><option value="/national/bolivia/a32/?ICID=SN_02_143">玻利维亚 (3)</option><option value="/national/sweden/a184/?ICID=SN_02_144">瑞典 (14)</option><option value="/national/switzerland/a185/?ICID=SN_02_145">瑞士 (12)</option><option value="/national/guadeloupe/a227/?ICID=SN_02_146">瓜德罗普岛 (1)</option><option value="/national/vanuatu/a206/?ICID=SN_02_147">瓦努阿图 (2)</option><option value="/national/belarus/a26/?ICID=SN_02_148">白俄罗斯 (9)</option><option value="/national/bermuda/a30/?ICID=SN_02_149">百慕大 (1)</option><option value="/national/gibraltar/a226/?ICID=SN_02_150">直布罗陀 (1)</option><option value="/national/kuwait/a108/?ICID=SN_02_151">科威特 (7)</option><option value="/national/cote-divoire/a60/?ICID=SN_02_152">科特迪瓦 (1)</option><option value="/national/kosovo/a249/?ICID=SN_02_153">科索沃 (1)</option><option value="/national/peru/a153/?ICID=SN_02_154">秘鲁 (3)</option><option value="/national/tunisia/a195/?ICID=SN_02_155">突尼斯 (3)</option><option value="/national/lithuania/a117/?ICID=SN_02_156">立陶宛 (6)</option><option value="/national/jordan/a103/?ICID=SN_02_157">约旦 (4)</option><option value="/national/namibia/a136/?ICID=SN_02_158">纳米比亚 (1)</option><option value="/national/myanmar/a135/?ICID=SN_02_159">缅甸 (1)</option><option value="/national/romania/a159/?ICID=SN_02_160">罗马尼亚 (6)</option><option value="/national/united-states/a203/?ICID=SN_02_161">美国 (11)</option><option value="/national/american-samoa/a11/?ICID=SN_02_162">美属萨摩亚 (1)</option><option value="/national/laos/a110/?ICID=SN_02_163">老挝 (1)</option><option value="/national/kenya/a105/?ICID=SN_02_164">肯尼亚 (1)</option><option value="/national/finland/a75/?ICID=SN_02_165">芬兰 (11)</option><option value="/national/sudan/a181/?ICID=SN_02_166">苏丹 (1)</option><option value="/national/scotland/a165/?ICID=SN_02_167">苏格兰 (18)</option><option value="/national/surinam/a182/?ICID=SN_02_168">苏里南 (3)</option><option value="/national/british-virgin-islands/a36/?ICID=SN_02_169">英属维尔京群岛 (1)</option><option value="/national/england/a68/?ICID=SN_02_170">英格兰 (26)</option><option value="/national/netherlands/a138/?ICID=SN_02_171">荷兰 (21)</option><option value="/national/mozambique/a134/?ICID=SN_02_172">莫桑比克 (1)</option><option value="/national/lesotho/a113/?ICID=SN_02_173">莱索托 (1)</option><option value="/national/philippines/a154/?ICID=SN_02_174">菲律宾 (1)</option><option value="/national/el-salvador/a67/?ICID=SN_02_175">萨尔瓦多 (1)</option><option value="/national/samoa/a162/?ICID=SN_02_176">萨摩亚 (1)</option><option value="/national/portugal/a156/?ICID=SN_02_177">葡萄牙 (9)</option><option value="/national/mongolia/a131/?ICID=SN_02_178">蒙古 (1)</option><option value="/national/spain/a176/?ICID=SN_02_179">西班牙 (10)</option><option value="/national/benin/a29/?ICID=SN_02_180">貝宁 (1)</option><option value="/national/zambia/a211/?ICID=SN_02_181">贊比亚 (1)</option><option value="/national/vietnam/a208/?ICID=SN_02_182">越南 (3)</option><option value="/national/azerbaijan/a21/?ICID=SN_02_183">阿塞拜疆 (4)</option><option value="/national/afghanistan/a8/?ICID=SN_02_184">阿富汗 (1)</option><option value="/national/algeria/a10/?ICID=SN_02_185">阿尔及利亚 (3)</option><option value="/national/albania/a9/?ICID=SN_02_186">阿尔巴尼亚 (7)</option><option value="/national/united-arab-emirates/a202/?ICID=SN_02_187">阿拉伯联合酋长国 (9)</option><option value="/national/oman/a147/?ICID=SN_02_188">阿曼 (3)</option><option value="/national/argentina/a16/?ICID=SN_02_189">阿根廷 (14)</option><option value="/national/aruba/a18/?ICID=SN_02_190">阿鲁巴 (1)</option><option value="/national/hong-kong/a91/?ICID=SN_02_191">香港 (5)</option><option value="/national/macedonia-fyr/a120/?ICID=SN_02_192">马其顿 (5)</option><option value="/national/maldives/a124/?ICID=SN_02_193">马尔代夫 (1)</option><option value="/national/malawi/a122/?ICID=SN_02_194">马拉维 (1)</option><option value="/national/martinique/a229/?ICID=SN_02_195">马提尼克 (1)</option><option value="/national/malaysia/a123/?ICID=SN_02_196">马来西亚 (7)</option><option value="/national/malta/a126/?ICID=SN_02_197">马耳他 (7)</option><option value="/national/madagascar/a121/?ICID=SN_02_198">马达加斯加 (1)</option><option value="/national/mali/a125/?ICID=SN_02_199">马里 (1)</option><option value="/national/lebanon/a112/?ICID=SN_02_200">黎巴嫩 (4)</option><option value="/national/montenegro/a225/?ICID=SN_02_201">黑山 (4)</option>
+
+    </select>
+    <select size="1" class="  nav-select" onchange="window.location.href = $F(this);">
+    <option value="" selected="selected">国际球会赛事 (38)</option>
+
+
+      <optgroup label="世界">
+        <option value="/international/world/fifa-club-world-cup/c284/?ICID=SN_03_01">FIFA世界俱乐部杯</option><option value="/international/world/inter-continental-cup/c167/?ICID=SN_03_02">洲际杯</option><option value="/international/world/arab-champions-league/c533/?ICID=SN_03_03">阿拉伯冠军联赛</option><option value="/international/world/pan-pacific-championship/c711/?ICID=SN_03_04">泛太平洋锦标赛</option><option value="/international/world/suruga-bank-championship/c836/?ICID=SN_03_05">Suruga Bank Championship</option><option value="/international/world/international-champions-cup/c1148/?ICID=SN_03_06">International Champions Cup</option><option value="/international/world/club-friendlies/c732/?ICID=SN_03_07">俱乐部友谊赛</option>
+      </optgroup>
+      <optgroup label="亚洲">
+        <option value="/international/asia/afc-champions-league/c251/?ICID=SN_03_08">亚洲冠军联赛</option><option value="/international/asia/afc-cup/c253/?ICID=SN_03_09">亚洲足协杯</option><option value="/international/asia/afc-presidents-cup/c713/?ICID=SN_03_10">亚足联总统杯</option><option value="/international/asia/gulf-clubs-championship/c773/?ICID=SN_03_11">海湾俱乐部锦标赛</option>
+      </optgroup>
+      <optgroup label="北美/中美洲">
+        <option value="/international/nc-america/concacaf-champions-league/c255/?ICID=SN_03_12">中北美冠军联赛</option><option value="/international/nc-america/cfu-club-championship/c704/?ICID=SN_03_13">CFU俱乐部锦标赛</option><option value="/international/nc-america/cup-winners-cup/c784/?ICID=SN_03_14">杯赛冠军杯</option><option value="/international/nc-america/super-liga/c517/?ICID=SN_03_15">超级联赛</option><option value="/international/nc-america/uncaf-clubs-cup/c319/?ICID=SN_03_16">UNCAF俱乐部杯</option><option value="/international/nc-america/giants-cup/c754/?ICID=SN_03_17">巨人杯</option>
+      </optgroup>
+      <optgroup label="南美洲">
+        <option value="/international/south-america/copa-libertadores/c241/?ICID=SN_03_18">自由杯</option><option value="/international/south-america/copa-libertadores-u20/c1038/?ICID=SN_03_19">Copa Libertadores U20</option><option value="/international/south-america/copa-sudamericana/c297/?ICID=SN_03_20">南美杯</option><option value="/international/south-america/recopa-sudamericana/c345/?ICID=SN_03_21">南美超级杯</option><option value="/international/south-america/copa-libertadores-femenina/c770/?ICID=SN_03_22">自由杯</option>
+      </optgroup>
+      <optgroup label="大洋洲">
+        <option value="/international/oceania/ofc-champions-league/c278/?ICID=SN_03_23">大洋洲冠军联赛</option>
+      </optgroup>
+      <optgroup label="欧洲">
+        <option value="/international/europe/uefa-champions-league/c10/?ICID=SN_03_24">欧洲冠军联赛</option><option value="/international/europe/uefa-cup/c18/?ICID=SN_03_25">欧洲联赛</option><option value="/international/europe/uefa-super-cup/c211/?ICID=SN_03_26">欧足联超级杯</option><option value="/international/europe/uefa-intertoto-cup/c245/?ICID=SN_03_27">欧足联国际托托杯</option><option value="/international/europe/scandinavian-royal-league/c164/?ICID=SN_03_28">北欧皇家联赛</option><option value="/international/europe/setanta-cup/c244/?ICID=SN_03_29">爱尔兰</option><option value="/international/europe/baltic-league/c539/?ICID=SN_03_30">波罗的海联赛</option><option value="/international/europe/baltic-champions-cup/c902/?ICID=SN_03_31">Baltic Champions Cup</option><option value="/international/europe/uefa-youth-league/c1154/?ICID=SN_03_32">UEFA Youth League</option><option value="/international/europe/the-nextgen-series/c977/?ICID=SN_03_33">The NextGen Series</option><option value="/international/europe/uefa-womens-champions-league/c336/?ICID=SN_03_34">欧足联女子超级联赛</option><option value="/international/europe/bene-super-cup/c942/?ICID=SN_03_35">BeNe Super Cup</option>
+      </optgroup>
+      <optgroup label="非洲">
+        <option value="/international/africa/caf-champions-league/c256/?ICID=SN_03_36">非洲冠军联赛</option><option value="/international/africa/caf-confederation-cup/c536/?ICID=SN_03_37">非洲联合会杯</option><option value="/international/africa/caf-super-cup/c710/?ICID=SN_03_38">非足联超级杯</option>
+      </optgroup>
+    </select>
+    <select size="1" class=" last nav-select" onchange="window.location.href = $F(this);">
+    <option value="" selected="selected">国家队赛事 (103)</option>
+
+
+      <optgroup label="世界">
+        <option value="/international/world/world-cup/c72/?ICID=SN_04_01">世界杯</option><option value="/international/world/wc-qualifying-intercontinental-play-offs/c375/?ICID=SN_04_02">世界杯资格赛洲际附加赛</option><option value="/international/world/confederations-cup/c246/?ICID=SN_04_03">联合会杯</option><option value="/international/world/womens-wc-qualifying-intercontinental-play-offs-/c876/?ICID=SN_04_04">Womens WC Qualification Intercontinental Play-offs </option><option value="/international/world/olympics/c221/?ICID=SN_04_05">奥运会</option><option value="/international/world/world-youth-festival-toulon/c281/?ICID=SN_04_06">土伦世界青年锦标赛</option><option value="/international/world/u20-world-cup/c274/?ICID=SN_04_07">世界青年锦标赛</option><option value="/international/world/u17-world-cup/c365/?ICID=SN_04_08">世界U17锦标赛</option><option value="/international/world/pan-american-games/c760/?ICID=SN_04_09">泛美运动会</option><option value="/international/world/pan-arab-games/c988/?ICID=SN_04_10">Pan Arab Games</option><option value="/international/world/arab-u20-championship/c1053/?ICID=SN_04_11">U20 Arab Championship</option><option value="/international/world/arab-u17-championship/c1049/?ICID=SN_04_12">U17 Arab Championship</option><option value="/international/world/kirin-cup/c275/?ICID=SN_04_13">麒麟杯</option><option value="/international/world/womens-world-cup/c368/?ICID=SN_04_14">女足世界杯</option><option value="/international/world/algarve-cup/c415/?ICID=SN_04_15">阿尔加夫杯</option><option value="/international/world/cyprus-cup/c1014/?ICID=SN_04_16">Cyprus Women's Cup</option><option value="/international/world/friendly-women/c456/?ICID=SN_04_17">友谊赛(女子)</option><option value="/international/world/u20-womens-world-cup/c455/?ICID=SN_04_18">世界女子U20锦标赛</option><option value="/international/world/u17-womens-world-cup/c832/?ICID=SN_04_19">U17 Women's World Cup</option><option value="/international/world/olympics-women/c645/?ICID=SN_04_20">奥运会女足</option><option value="/international/world/womens-pan-american-games/c774/?ICID=SN_04_21">泛美运动会女足</option><option value="/international/world/cac-games/c759/?ICID=SN_04_22">中美洲和加勒比地区运动会</option><option value="/international/world/cac-games-women/c816/?ICID=SN_04_23">CAC Games Women</option><option value="/international/world/friendlies/c430/?ICID=SN_04_24">友谊赛</option>
+      </optgroup>
+      <optgroup label="亚洲">
+        <option value="/international/asia/asian-cup/c250/?ICID=SN_04_25">亚洲杯</option><option value="/international/asia/wc-qualifying-asia/c229/?ICID=SN_04_26">世界杯亚洲区资格赛</option><option value="/international/asia/asian-games/c490/?ICID=SN_04_27">亚运会</option><option value="/international/asia/afc-challenge-cup/c417/?ICID=SN_04_28">亚洲挑战杯</option><option value="/international/asia/asean-football-championship/c511/?ICID=SN_04_29">东南亚足球锦标赛</option><option value="/international/asia/east-asian-football-championship/c815/?ICID=SN_04_30">EAFF East Asian Cup</option><option value="/international/asia/west-asian-federation-championship/c841/?ICID=SN_04_31">West Asian Federation Championship</option><option value="/international/asia/gulf-cup/c516/?ICID=SN_04_32">海湾杯</option><option value="/international/asia/asian-cup-qualification/c1060/?ICID=SN_04_33">Asian Cup Qualification</option><option value="/international/asia/nehru-cup/c843/?ICID=SN_04_34">Nehru Cup</option><option value="/international/asia/east-asian-games/c1172/?ICID=SN_04_35">East Asian Games</option><option value="/international/asia/southeast-asian-games/c969/?ICID=SN_04_36">Southeast Asian Games</option><option value="/international/asia/gulf-olympic-cup/c1084/?ICID=SN_04_37">Gulf Olympic Cup</option><option value="/international/asia/south-asian-football-federation-championship/c844/?ICID=SN_04_38">SAFF Championship</option><option value="/international/asia/afc-u22-asian-cup/c1018/?ICID=SN_04_39">AFC U22 Asian Cup</option><option value="/international/asia/afc-u19-championship/c831/?ICID=SN_04_40">AFC U19 Championship</option><option value="/international/asia/afc-u17-championship/c834/?ICID=SN_04_41">AFC U16 Championship</option><option value="/international/asia/gulf-cup-u17/c1067/?ICID=SN_04_42">Gulf Cup U17</option><option value="/international/asia/aff-u19-championship/c1121/?ICID=SN_04_43">AFF U19 Championship</option><option value="/international/asia/aff-u16-championship/c1144/?ICID=SN_04_44">AFF U16 Championship</option><option value="/international/asia/asian-cup--wc-qualifying/c766/?ICID=SN_04_45">亚运会/世界杯资格赛</option><option value="/international/asia/asian-cup-women-qualification/c1132/?ICID=SN_04_46">Women's Asian Cup Qualification</option><option value="/international/asia/asian-games-women/c869/?ICID=SN_04_47">Asian Games Women</option><option value="/international/asia/east-asian-games-women/c1173/?ICID=SN_04_48">East Asian Games Women</option><option value="/international/asia/afc-u19-womens-championship/c1103/?ICID=SN_04_49">AFC U19 Women's Championship</option><option value="/international/asia/afc-u17-womens-championship/c1102/?ICID=SN_04_50">AFC U16 Women's Championship</option><option value="/international/asia/saff-womens-championship/c1061/?ICID=SN_04_51">SAFF Women's Championship</option><option value="/international/asia/aff-womens-championship/c1062/?ICID=SN_04_52">AFF Women's Championship</option><option value="/international/asia/eaff-east-asian-cup/c1098/?ICID=SN_04_53">EAFF East Asian Women's Cup</option>
+      </optgroup>
+      <optgroup label="北美/中美洲">
+        <option value="/international/nc-america/concacaf-gold-cup/c247/?ICID=SN_04_54">中北美金杯赛</option><option value="/international/nc-america/copa-centroamericana/c510/?ICID=SN_04_55">中美洲国家杯</option><option value="/international/nc-america/caribbean-cup/c755/?ICID=SN_04_56">CFU加勒比杯</option><option value="/international/nc-america/olympic-qualifying-concacaf/c747/?ICID=SN_04_57">中北美奥运资格赛</option><option value="/international/nc-america/pre-concacaf-championships/c758/?ICID=SN_04_58">前中北美及加勒比锦标赛</option><option value="/international/nc-america/concacaf-nations-cup/c753/?ICID=SN_04_59">中北美国家杯</option><option value="/international/nc-america/wc-qualifying-concacaf/c227/?ICID=SN_04_60">世界杯中北美区资格赛</option><option value="/international/nc-america/ca-games/c1115/?ICID=SN_04_61">CA Games</option><option value="/international/nc-america/concacaf-u20/c515/?ICID=SN_04_62">中北美U20</option><option value="/international/nc-america/concacaf-womens-u20/c750/?ICID=SN_04_63">中北美女子U20</option><option value="/international/nc-america/concacaf-womens-u17/c751/?ICID=SN_04_64">中北美女子U17</option><option value="/international/nc-america/concacaf-u17/c749/?ICID=SN_04_65">中北美U17</option><option value="/international/nc-america/womens-wc-qualifying-concacaf/c742/?ICID=SN_04_66">中北美女子金杯赛</option><option value="/international/nc-america/womens-olympic-qualifying-concacaf/c748/?ICID=SN_04_67">中北美奥运女足资格赛</option><option value="/international/nc-america/ca-games-womens/c1116/?ICID=SN_04_68">CA Games Women's</option>
+      </optgroup>
+      <optgroup label="南美洲">
+        <option value="/international/south-america/wc-qualifying-south-america/c225/?ICID=SN_04_69">世界杯南美区资格赛</option><option value="/international/south-america/copa-america/c288/?ICID=SN_04_70">美洲杯</option><option value="/international/south-america/sudamericano-u20/c512/?ICID=SN_04_71">南美U20</option><option value="/international/south-america/sudamericano-u17/c818/?ICID=SN_04_72">Sudamericano U17</option><option value="/international/south-america/sudamericano-u20-femenino/c1008/?ICID=SN_04_73">Sudamericano U20 Femenino</option><option value="/international/south-america/sudamericano-u17-femenino/c1015/?ICID=SN_04_74">Sudamericano U17 Femenino</option><option value="/international/south-america/womens-wc-qualifying-south-america/c369/?ICID=SN_04_75">女足世界杯南美区资格赛</option>
+      </optgroup>
+      <optgroup label="大洋洲">
+        <option value="/international/oceania/ofc-u20-championship/c925/?ICID=SN_04_76">OFC U20 Championship</option><option value="/international/oceania/ofc-u17-championship/c900/?ICID=SN_04_77">OFC U17 Championship</option><option value="/international/oceania/wc-qualifying-oceania/c230/?ICID=SN_04_78">世界杯大洋区资格赛</option><option value="/international/oceania/pacific-games/c947/?ICID=SN_04_79">Pacific Games</option><option value="/international/oceania/ofc-nations-cup/c1041/?ICID=SN_04_80">OFC Nations Cup</option><option value="/international/oceania/womens-wc-qualifying-oceania/c483/?ICID=SN_04_81">女子世界杯大洋区资格赛</option>
+      </optgroup>
+      <optgroup label="欧洲">
+        <option value="/international/europe/european-championships/c25/?ICID=SN_04_82">欧洲足球锦标赛</option><option value="/international/europe/european-championship-qualification/c1000/?ICID=SN_04_83">欧洲足球锦标赛预选赛</option><option value="/international/europe/wc-qualifying-europe/c224/?ICID=SN_04_84">世界杯欧洲区资格赛</option><option value="/international/europe/baltic-cup/c825/?ICID=SN_04_85">Baltic Cup</option><option value="/international/europe/nations-cup/c895/?ICID=SN_04_86">Nations Cup</option><option value="/international/europe/uefa-u21-championship/c280/?ICID=SN_04_87">欧洲21岁以下锦标赛</option><option value="/international/europe/uefa-u19-championship/c819/?ICID=SN_04_88">UEFA U19 Championship</option><option value="/international/europe/uefa-u17-championship/c821/?ICID=SN_04_89">UEFA U17 Championship</option><option value="/international/europe/uefa-womens-championship/c268/?ICID=SN_04_90">欧洲女子锦标赛</option><option value="/international/europe/womens-wc-qualifying-europe/c364/?ICID=SN_04_91">女足世界杯欧洲区资格赛</option><option value="/international/europe/uefa-u19-championship-women/c820/?ICID=SN_04_92">UEFA U19 Championship Women</option><option value="/international/europe/uefa-u17-championship-women/c822/?ICID=SN_04_93">UEFA U17 Championship Women</option>
+      </optgroup>
+      <optgroup label="非洲">
+        <option value="/international/africa/africa-cup-of-nations/c385/?ICID=SN_04_94">非洲国家杯</option><option value="/international/africa/wc-qualifying-africa/c228/?ICID=SN_04_95">世界杯非洲区资格赛</option><option value="/international/africa/africa-cup-of-nations-qualification/c1004/?ICID=SN_04_96">Africa Cup of Nations Qualification</option><option value="/international/africa/african-nations-championship/c695/?ICID=SN_04_97">非洲国家杯</option><option value="/international/africa/caf-u20-championship/c828/?ICID=SN_04_98">CAF U20 Championship</option><option value="/international/africa/caf-u17-championship/c830/?ICID=SN_04_99">CAF U17 Championship</option><option value="/international/africa/all-africa-games/c913/?ICID=SN_04_100">All Africa Games</option><option value="/international/africa/cecafa-senior-challenge-cup/c877/?ICID=SN_04_101">CECAFA Senior Challenge Cup</option><option value="/international/africa/nile-basin-tournament/c898/?ICID=SN_04_102">Nile Basin Tournament</option><option value="/international/africa/caf-championship--wc-qualifying-africa/c769/?ICID=SN_04_103">非洲锦标赛/世界杯非洲区资格赛</option>
+      </optgroup>
+    </select>
+  </div>
+  
+  <div id="navbar-right">
+	<div class="block_ad ad_navbar_right block clearfix">
+  <div class="ad_navbar_right">
+
+<div id="div-gpt-ad-1325073145951-5" style="width:240px; height:27px;">
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1325073145951-5'); });
+</script>
+</div>
+</div>
+</div>
+
+  </div>
+</div>
+
+
+</div>
+<script type="text/javascript" charset="utf-8">
+ (function() {
+    var block = new Block('block_navbar_16', 'block_navbar', null);
+    
+    
+    
+    TimestampFormatter.format('block_navbar_16');
+  })();
+</script>    
+  </div>
+  <div id="bd">
+    <div id="subheading" style="position: relative;">
+  <h1>卡迪夫城 vs. 托特纳姆热刺&nbsp;<span class="bidi"> 0 - 1</span></h1>
+
+  <div id="submenu-container">
+    <div class="clearfix" id="submenu" style="background: url(http://s1.swimg.net/gsmf/458/img/flags/230x70/68.png) top right no-repeat;">
+  <ul>
+    <li class="current"><a href="/matches/2013/09/22/england/premier-league/cardiff-city-fc/tottenham-hotspur-football-club/1483498/">总结</a></li><li class=""><a href="/matches/2013/09/22/england/premier-league/cardiff-city-fc/tottenham-hotspur-football-club/1483498/head2head/">直接比较</a></li><li class=""><a href="/matches/2013/09/22/england/premier-league/cardiff-city-fc/tottenham-hotspur-football-club/1483498/venue/">体育场</a></li><li class=""><a href="/matches/2013/09/22/england/premier-league/cardiff-city-fc/tottenham-hotspur-football-club/1483498/map/">地图</a></li>
+    
+  </ul>
+</div>
+    <div class="submenu_dropdown"> 
+      <div class="block_match_other_matches block  clearfix" id="page_match_1_block_match_other_matches_14">
+  <select size="1" onchange="window.location.href = $F(this);">
+    <optgroup label="星期六 21 九月">
+      <option value="/matches/2013/09/21/england/premier-league/norwich-city-fc/aston-villa-football-club/1483504/">
+        诺维奇 vs.
+        阿斯顿维拉
+      </option>
+      <option value="/matches/2013/09/21/england/premier-league/liverpool-fc/southampton-fc/1483501/">
+        利物浦 vs.
+        南安普敦
+      </option>
+      <option value="/matches/2013/09/21/england/premier-league/newcastle-united-football-club/hull-city-afc/1483503/">
+        纽卡斯尔联 vs.
+        赫尔城
+      </option>
+      <option value="/matches/2013/09/21/england/premier-league/west-bromwich-albion-football-club/sunderland-association-football-club/1483505/">
+        西布罗姆维奇 vs.
+        桑德兰
+      </option>
+      <option value="/matches/2013/09/21/england/premier-league/west-ham-united-fc/everton-football-club/1483506/">
+        西汉姆联 vs.
+        埃弗顿
+      </option>
+      <option value="/matches/2013/09/21/england/premier-league/chelsea-football-club/fulham-football-club/1483499/">
+        切尔西 vs.
+        富勒姆
+      </option>
+    </optgroup>
+    <optgroup label="星期日 22 九月">
+      <option value="/matches/2013/09/22/england/premier-league/arsenal-fc/stoke-city-fc/1483497/">
+        阿森纳 vs.
+        斯托克城
+      </option>
+      <option value="/matches/2013/09/22/england/premier-league/crystal-palace-fc/swansea-city-afc/1483500/">
+        水晶宫 vs.
+        斯旺西
+      </option>
+      <option value="/matches/2013/09/22/england/premier-league/cardiff-city-fc/tottenham-hotspur-football-club/1483498/" selected="selected">
+        卡迪夫城 vs.
+        托特纳姆热刺
+      </option>
+      <option value="/matches/2013/09/22/england/premier-league/manchester-city-football-club/manchester-united-fc/1483502/">
+        曼城 vs.
+        曼联
+      </option>
+    </optgroup>
+</select>
+</div>
+<script type="text/javascript" charset="utf-8">
+ (function() {
+    var block = new Block('page_match_1_block_match_other_matches_14', 'block_match_other_matches', null);
+    
+    
+    
+    TimestampFormatter.format('page_match_1_block_match_other_matches_14');
+  })();
+</script>
+    </div>
+  </div>
+</div>
+
+<div id="yui-main">
+  <div class="yui-b">
+    <div class="clearfix">
+      <div class="small-column">
+        <div class="block  clearfix block_competition_left_tree-wrapper" id="page_competition_1_block_competition_left_tree_1-wrapper">
+  
+  <h2>英格兰</h2>
+  
+  
+  <div class="content plain ">
+    <div class="block_competition_left_tree real-content clearfix " id="page_competition_1_block_competition_left_tree_1">
+
+      <ul class="left-tree">
+  <li class="expanded current odd">
+    <a href="/national/england/premier-league/c8/" class="flag_16 left_16 england_16_left" title="英超联赛">英超联赛</a>
+    <ul class="level-1 expanded">
+      <li class="leaf current">
+        <a href="/national/england/premier-league/20132014/s8318/">2013/2014</a>
+      </li>
+    </ul>
+  </li>
+  <li class="  even">
+    <a href="/national/england/championship/c70/" class="flag_16 left_16 england_16_left" title="冠军联赛">冠军联赛</a>
+  </li>
+  <li class="  odd">
+    <a href="/national/england/league-one/c15/" class="flag_16 left_16 england_16_left" title="甲级联赛">甲级联赛</a>
+  </li>
+  <li class="  even">
+    <a href="/national/england/league-two/c32/" class="flag_16 left_16 england_16_left" title="乙级联赛">乙级联赛</a>
+  </li>
+  <li class="  odd">
+    <a href="/national/england/conference-national/c71/" class="flag_16 left_16 england_16_left" title="非职业联赛">非职业联赛</a>
+  </li>
+  <li class="  even">
+    <a href="/national/england/conference-n--s/c302/" class="flag_16 left_16 england_16_left" title="非职业 北/南">非职业 北/南</a>
+  </li>
+  <li class="  odd">
+    <a href="/national/england/non-league-premier/c306/" class="flag_16 left_16 england_16_left" title="非联赛超级">非联赛超级</a>
+  </li>
+  <li class="  even">
+    <a href="/national/england/non-league-div-one/c308/" class="flag_16 left_16 england_16_left" title="非联赛甲级">非联赛甲级</a>
+  </li>
+  <li class="  odd">
+    <a href="/national/england/fa-cup/c93/" class="flag_16 left_16 england_16_left" title="足总杯">足总杯</a>
+  </li>
+  <li class="  even">
+    <a href="/national/england/league-cup/c95/" class="flag_16 left_16 england_16_left" title="联赛杯">联赛杯</a>
+  </li>
+  <li class="  odd">
+    <a href="/national/england/football-league-trophy/c96/" class="flag_16 left_16 england_16_left" title="足球联赛战利杯">足球联赛战利杯</a>
+  </li>
+  <li class="  even">
+    <a href="/national/england/fa-trophy/c683/" class="flag_16 left_16 england_16_left" title="FA战利杯">FA战利杯</a>
+  </li>
+  <li class="  odd">
+    <a href="/national/england/community-shield/c173/" class="flag_16 left_16 england_16_left" title="超级杯">超级杯</a>
+  </li>
+  <li class="  even">
+    <a href="/national/england/u21-premier-league/c1058/" class="flag_16 left_16 england_16_left" title="U21 Premier League">U21 Premier L&hellip;</a>
+  </li>
+  <li class="  odd">
+    <a href="/national/england/u21-cup-premier-league/c1167/" class="flag_16 left_16 england_16_left" title="U21 Premier League Cup">U21 Premier L&hellip;</a>
+  </li>
+  <li class="  even">
+    <a href="/national/england/premier-academy-league/c950/" class="flag_16 left_16 england_16_left" title="Premier Academy League">Premier Acade&hellip;</a>
+  </li>
+  <li class="  odd">
+    <a href="/national/england/wsl/c886/" class="flag_16 left_16 england_16_left" title="WSL">WSL</a>
+  </li>
+  <li class="  even">
+    <a href="/national/england/premier-league-women/c326/" class="flag_16 left_16 england_16_left" title="女足甲级联赛">女足甲级联赛</a>
+  </li>
+  <li class="  odd">
+    <a href="/national/england/premier-n--s/c327/" class="flag_16 left_16 england_16_left" title="超级 北/南">超级 北/南</a>
+  </li>
+  <li class="  even">
+    <a href="/national/england/combination/c570/" class="flag_16 left_16 england_16_left" title="Combination">Combination</a>
+  </li>
+  <li class="  odd">
+    <a href="/national/england/play-offs-34/c422/" class="flag_16 left_16 england_16_left" title="女足附加赛">女足附加赛</a>
+  </li>
+  <li class="  even">
+    <a href="/national/england/fa-cup-women/c498/" class="flag_16 left_16 england_16_left" title="女子足总杯">女子足总杯</a>
+  </li>
+  <li class="  odd">
+    <a href="/national/england/wsl-cup/c1006/" class="flag_16 left_16 england_16_left" title="WSL Cup">WSL Cup</a>
+  </li>
+  <li class="  even">
+    <a href="/national/england/conference-league-cup/c680/" class="flag_16 left_16 england_16_left" title="非职业联赛杯">非职业联赛杯</a>
+  </li>
+  <li class="  odd">
+    <a href="/national/england/premier-reserve-league/c949/" class="flag_16 left_16 england_16_left" title="Premier Reserve League">Premier Reser&hellip;</a>
+  </li>
+  <li class="  even">
+    <a href="/national/england/league-cup-women/c499/" class="flag_16 left_16 england_16_left" title="女子超级联赛杯">女子超级联赛杯</a>
+  </li>
+  <li class=" odd">
+    <a href="/national/england/club-friendlies/" class="flag_16 left_16 england_16_left">俱乐部友谊赛</a>
+  </li>
+</ul>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+  
+  (function() {
+    var block = new Block('page_competition_1_block_competition_left_tree_1', 'block_competition_left_tree', null);
+    
+        
+        
+    
+    
+    
+    TimestampFormatter.format('page_competition_1_block_competition_left_tree_1');
+  })();
+</script>
+	<div class="block_ad ad_120 block clearfix">
+  <!-- 120x600 -->
+
+
+
+
+
+<div class="tag">
+<!--JavaScript Tag // Tag for network 327: Perform // Website: Soccerway // Page: Matches 2013 // Placement: Matches 2013-Sky-120 x 600 (4236542) // created at: Jan 18, 2013 11:04:02 AM-->
+<script language="javascript">
+<!--
+if (window.adgroupid == undefined) {
+ window.adgroupid = Math.round(Math.random() * 1000);
+}
+document.write('<script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|327|4236542|0|168|ADTECH;cookie=info;loc=100;target=_blank;sub1=[subst];kvcomp=8;kvteam=691:675;grp='+window.adgroupid+';misc='+new Date().getTime()+';kvenv=production;kvlang=cn"></script>');
+//-->
+</script><noscript><a href="http://adserver.adtech.de/adlink|3.0|327|4236542|0|168|ADTECH;loc=300;kvcomp=8;kvteam=691:675;sub1=[subst];kvenv=production;kvlang=cn" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|327|4236542|0|168|ADTECH;cookie=info;loc=300;kvcomp=8;kvteam=691:675;kvenv=production;kvlang=cn;" border="0" width="120" height="600"></a></noscript>
+<!-- End of JavaScript Tag -->
+</div>
+
+
+</div>
+      </div>
+      <div class="content-column">
+
+        <div class="block  clearfix block_match_info-wrapper" id="page_match_1_block_match_info_4-wrapper">
+  
+  <h2>信息</h2>
+  
+  
+  <div class="content  ">
+    <div class="block_match_info real-content clearfix " id="page_match_1_block_match_info_4">
+
+      <div class="clearfix">
+  <div class="container left">
+    <h3 class="thick">
+
+        <a href="/teams/wales/cardiff-city-fc/691/">卡迪夫城</a>
+    </h3>
+
+    <div class="form clearfix">
+      <a href="/matches/2013/10/05/england/premier-league/cardiff-city-fc/newcastle-united-football-club/1483517/" class="form-icon form-loss " title="卡迪夫城 - 纽卡斯尔联 1 - 2">L</a>
+      <a href="/matches/2013/09/28/england/premier-league/fulham-football-club/cardiff-city-fc/1483509/" class="form-icon form-win " title="富勒姆 - 卡迪夫城 1 - 2">W</a>
+      <a href="/matches/2013/09/24/england/league-cup/west-ham-united-fc/cardiff-city-fc/1584131/" class="form-icon form-loss " title="西汉姆联 - 卡迪夫城 3 - 2">L</a>
+      <a href="/matches/2013/09/22/england/premier-league/cardiff-city-fc/tottenham-hotspur-football-club/1483498/" class="form-icon form-loss " title="卡迪夫城 - 托特纳姆热刺 0 - 1">L</a>
+      <a href="/matches/2013/09/14/england/premier-league/hull-city-afc/cardiff-city-fc/1483490/" class="form-icon form-draw last" title="赫尔城 - 卡迪夫城 1 - 1">D</a>
+    </div>
+  </div>
+
+  <div class="container middle">
+    <h3 class="thick scoretime ">
+      
+      0 - 1
+      
+
+      
+
+      
+    </h3>
+  </div>
+
+  <div class="container right">
+    <h3 class="thick">
+        <a href="/teams/england/tottenham-hotspur-football-club/675/">托特纳姆热刺</a>
+    </h3>
+    <div class="form clearfix">
+      <a href="/matches/2013/10/06/england/premier-league/tottenham-hotspur-football-club/west-ham-united-fc/1483525/" class="form-icon form-loss " title="托特纳姆热刺 - 西汉姆联 0 - 3">L</a>
+      <a href="/matches/2013/10/03/europe/uefa-cup/anzhi-makhachkala/tottenham-hotspur-football-club/1584746/" class="form-icon form-win " title="安郅 - 托特纳姆热刺 0 - 2">W</a>
+      <a href="/matches/2013/09/28/england/premier-league/tottenham-hotspur-football-club/chelsea-football-club/1483516/" class="form-icon form-draw " title="托特纳姆热刺 - 切尔西 1 - 1">D</a>
+      <a href="/matches/2013/09/24/england/league-cup/aston-villa-football-club/tottenham-hotspur-football-club/1584140/" class="form-icon form-win " title="阿斯顿维拉 - 托特纳姆热刺 0 - 4">W</a>
+      <a href="/matches/2013/09/22/england/premier-league/cardiff-city-fc/tottenham-hotspur-football-club/1483498/" class="form-icon form-win last" title="卡迪夫城 - 托特纳姆热刺 0 - 1">W</a>
+    </div>
+  </div>
+</div>
+
+<div class="clearfix">
+  <div class="container left">    
+    <div class="logo">
+      <a href="/teams/wales/cardiff-city-fc/691/">
+        <img src="http://cache.images.globalsportsmedia.com/soccer/teams/150x150/691.png" alt="Cardiff City FC" />
+      </a>
+    </div>
+  </div>
+
+  <div class="container middle">
+    <div class="details clearfix">
+      <dl>
+        <dt>比赛</dt>
+        <dd><a href="/national/england/premier-league/20132014/regular-season/r21322/">英超联赛</a></dd>
+
+        <dt>日期</dt>
+        <dd><a href="/matches/2013/09/22/"><span class='timestamp' data-value='1379862000' data-format='d mmmm yyyy'>22 九月 2013</span></a></dd>
+        
+        <dt>比赛周</dt>
+        <dd>5</dd>
+
+        <dt>开球</dt>
+        <dd>
+          <span class='timestamp' data-value='1379862000' data-format='HH:MM'>17:00</span>
+        </dd>
+      </dl>
+    </div>
+
+    <div class="details clearfix">
+      <dl>
+        <dt>中场休息</dt>
+        <dd>0 - 0</dd>
+
+        <dt>全时</dt>
+        <dd>0 - 1</dd>
+
+
+      </dl>
+    </div>
+
+
+    <div class="details clearfix">
+      <dl>
+        <dt>体育场</dt>
+        <dd><a href="venue/">Cardiff City Stadium (Cardiff (Caerdydd))</a></dd>
+
+        <dt>出席率</dt>
+        <dd>27815</dd>
+      </dl>
+    </div>
+    
+  </div>
+
+  <div class="container right">
+    <div class="logo">
+      <a href="/teams/england/tottenham-hotspur-football-club/675/">
+        <img src="http://cache.images.globalsportsmedia.com/soccer/teams/150x150/675.png" alt="Tottenham Hotspur FC" />
+      </a>
+    </div>
+  </div>
+</div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+  
+  (function() {
+    var block = new Block('page_match_1_block_match_info_4', 'block_match_info', null);
+    
+        
+        
+    
+    
+    
+    TimestampFormatter.format('page_match_1_block_match_info_4');
+  })();
+</script><div class="block  clearfix block_match_widget_wrapper-wrapper" id="page_match_1_block_match_widget_wrapper_5-wrapper">
+  
+  
+  
+  
+  <div class="content  ">
+    <div class="block_match_widget_wrapper real-content clearfix " id="page_match_1_block_match_widget_wrapper_5">
+
+      <div id="match_widget_wrapper" class="match-widget-wrapper-content-placement" >
+<div class="block_widget_default block  clearfix" id="page_match_1_block_match_widget_wrapper_5_block_widget_default_1">
+  <table class="widget-default">
+    <tr class="hidden" data-bookmaker="Dafabet">
+      <td class="column_left">
+        <a href="http://banner.dafasportbook.com/Redirector.aspx?trackingId=TRK230124614&mediaId=MED692151162&language=en-US" target="_blank">
+          <span class="href">领取5888巨额奖金 + 100元周期投注免费奖金</span>
+        </a>
+      </td>
+      <td class="column_right">
+        <a class="href" href="http://banner.dafasportbook.com/Redirector.aspx?trackingId=TRK230124614&mediaId=MED692151162&language=en-US" target="_blank">
+          <img src="http://cache-static-media.soccerway.com/img/betting/dafabet.png" title="Dafabet" alt="Dafabet" class="bookmaker">
+        </a>
+      </td>
+    </tr>
+</table>
+
+</div>
+<script type="text/javascript" charset="utf-8">
+ (function() {
+    var block = new WidgetDefaultBlock('page_match_1_block_match_widget_wrapper_5_block_widget_default_1', 'block_widget_default', null);
+    
+    
+    
+    TimestampFormatter.format('page_match_1_block_match_widget_wrapper_5_block_widget_default_1');
+  })();
+</script>
+</div>
+<div style="display:none">
+
+</div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+  
+  (function() {
+    var block = new Block('page_match_1_block_match_widget_wrapper_5', 'block_match_widget_wrapper', null);
+    
+        
+        
+    
+    
+    
+    TimestampFormatter.format('page_match_1_block_match_widget_wrapper_5');
+  })();
+</script>
+        
+      
+        
+        
+
+        <div class="block  clearfix block_match_goals-wrapper" id="page_match_1_block_match_goals_10-wrapper">
+  
+  <h2>进球</h2>
+  
+  
+  <div class="content  ">
+    <div class="block_match_goals real-content clearfix " id="page_match_1_block_match_goals_10">
+
+      <div class="fully-padded">
+  <table class="matches events">
+    <tr class="event    expanded">
+      <td class="player player-a">
+        <div></div>
+      </td>
+      <td class="event-icon"><div>0 - 1</div></td>
+      <td class="player player-b">
+        <div><span class="minute">90'+3</span> <a href="/players/jose-paulinho-bezerra-maciel-junior/31974/">保利尼奥</a>  <br/>&nbsp;<span class="assist">(助攻 <a href="/players/erik-lamela/81992/">E. Lamela</a>)</span></div>
+      </td>
+    </tr>
+  </table>
+</div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+  
+  (function() {
+    var block = new Block('page_match_1_block_match_goals_10', 'block_match_goals', null);
+    
+        
+        
+    
+    
+    
+    TimestampFormatter.format('page_match_1_block_match_goals_10');
+  })();
+</script>
+        
+      
+        
+
+        <div class="block  clearfix block_match_lineups-wrapper" id="page_match_1_block_match_lineups_7-wrapper">
+  
+  <h2>首发阵容</h2>
+  
+  
+  <div class="content  ">
+    <div class="block_match_lineups real-content clearfix " id="page_match_1_block_match_lineups_7">
+
+        <iframe src="http://www.scoresway.com/?sport=soccer&page=match&view=pitchview&id=1483498" width="556" height="400" frameborder="0" scrolling="no"></iframe>
+
+<div class="container left">
+  <table class="playerstats lineups table">
+    <thead>
+      <tr class="sub-head">
+        <th class="shirtnumber">#</th>
+        <th class="player">球员</th>
+        <th class="bookings">红黄牌</th>
+      </tr>
+    </thead>
+    <tbody>
+      
+      <tr class="odd">
+        <td class="shirtnumber">1</td>
+        <td class="player large-link">
+          <a href="/players/david-marshall/781/" class="flag_16 left_16 scotland_16_left">马绍尔</a>
+          
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+      <tr class="even">
+        <td class="shirtnumber">3</td>
+        <td class="player large-link">
+          <a href="/players/andrew-taylor/2821/" class="flag_16 left_16 england_16_left">泰勒</a>
+          
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+      <tr class="odd">
+        <td class="shirtnumber">6</td>
+        <td class="player large-link">
+          <a href="/players/ben-turner/15820/" class="flag_16 left_16 england_16_left">特纳</a>
+          
+        </td>
+        <td class="bookings">
+          <span><img src="http://s1.swimg.net/gsmf/458/img/events/YC.png" width="12" height="13" /> 63'</span>
+        </td>
+      </tr>
+      <tr class="even">
+        <td class="shirtnumber">28</td>
+        <td class="player large-link">
+          <a href="/players/kevin-theophile-catherine/42186/" class="flag_16 left_16 france_16_left">泰奥菲·凯瑟林</a>
+          
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+      <tr class="odd">
+        <td class="shirtnumber">4</td>
+        <td class="player large-link">
+          <a href="/players/steven-caulker/85469/" class="flag_16 left_16 england_16_left">考尔克</a>
+          
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+      <tr class="even">
+        <td class="shirtnumber">7</td>
+        <td class="player large-link">
+          <a href="/players/peter-whittingham/2806/" class="flag_16 left_16 england_16_left">维丁汉姆</a>
+          
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+      <tr class="odd">
+        <td class="shirtnumber">8</td>
+        <td class="player large-link">
+          <a href="/players/gary-alexis-medel/21790/" class="flag_16 left_16 chile_16_left">梅德尔</a>
+          
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+      <tr class="even">
+        <td class="shirtnumber">17</td>
+        <td class="player large-link">
+          <a href="/players/aron-gunnarsson/24655/" class="flag_16 left_16 iceland_16_left">古纳尔森</a>
+          
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+      <tr class="odd">
+        <td class="shirtnumber">13</td>
+        <td class="player large-link">
+          <a href="/players/bo-kyung-kim/97328/" class="flag_16 left_16 korea-republic_16_left">金甫炅</a>
+          
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+      <tr class="even">
+        <td class="shirtnumber">39</td>
+        <td class="player large-link">
+          <a href="/players/craig-bellamy/2982/" class="flag_16 left_16 wales_16_left">贝拉米</a>
+          <img src="http://s1.swimg.net/gsmf/458/img/events/SO.png" width="13" height="13" title="替补" alt="替补" />
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+      <tr class="odd">
+        <td class="shirtnumber">10</td>
+        <td class="player large-link">
+          <a href="/players/frazier-campbell/17423/" class="flag_16 left_16 england_16_left">坎贝尔</a>
+          <img src="http://s1.swimg.net/gsmf/458/img/events/SO.png" width="13" height="13" title="替补" alt="替补" />
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+      <tr class="even">
+        <td colspan="2" style="padding: 0.5em;">
+          <strong>教练:</strong>
+          <a href="/coaches/malcolm-george-mackay/140507/" class="flag_16 left_16 scotland_16_left">麦凯</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  
+</div>
+<div class="container right">
+  <table class="playerstats lineups table">
+    <thead>
+      <tr class="sub-head">
+        <th class="shirtnumber">#</th>
+        <th class="player">球员</th>
+        <th class="bookings">红黄牌</th>
+      </tr>
+    </thead>
+    <tbody>
+      
+      <tr class="odd">
+        <td class="shirtnumber">25</td>
+        <td class="player large-link">
+          <a href="/players/hugo-lloris/1255/" class="flag_16 left_16 france_16_left">洛里斯</a>
+          
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+      <tr class="even">
+        <td class="shirtnumber">5</td>
+        <td class="player large-link">
+          <a href="/players/jan-vertonghen/2190/" class="flag_16 left_16 belgium_16_left">维尔通亨</a>
+          
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+      <tr class="odd">
+        <td class="shirtnumber">20</td>
+        <td class="player large-link">
+          <a href="/players/michael-dawson/2932/" class="flag_16 left_16 england_16_left">迈克尔·道森</a>
+          
+        </td>
+        <td class="bookings">
+          <span><img src="http://s1.swimg.net/gsmf/458/img/events/YC.png" width="12" height="13" /> 70'</span>
+        </td>
+      </tr>
+      <tr class="even">
+        <td class="shirtnumber">16</td>
+        <td class="player large-link">
+          <a href="/players/kyle-naughton/21490/" class="flag_16 left_16 england_16_left">诺顿</a>
+          
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+      <tr class="odd">
+        <td class="shirtnumber">2</td>
+        <td class="player large-link">
+          <a href="/players/kyle-walker/68532/" class="flag_16 left_16 england_16_left">沃克尔</a>
+          
+        </td>
+        <td class="bookings">
+          <span><img src="http://s1.swimg.net/gsmf/458/img/events/YC.png" width="12" height="13" /> 7'</span>
+        </td>
+      </tr>
+      <tr class="even">
+        <td class="shirtnumber">19</td>
+        <td class="player large-link">
+          <a href="/players/moussa-dembele/2197/" class="flag_16 left_16 belgium_16_left">登贝莱</a>
+          
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+      <tr class="odd">
+        <td class="shirtnumber">8</td>
+        <td class="player large-link">
+          <a href="/players/jose-paulinho-bezerra-maciel-junior/31974/" class="flag_16 left_16 brazil_16_left">保利尼奥</a>
+          
+        </td>
+        <td class="bookings">
+          <span><img src="http://s1.swimg.net/gsmf/458/img/events/G.png" width="12" height="13" /> 90+3'</span>
+        </td>
+      </tr>
+      <tr class="even">
+        <td class="shirtnumber">22</td>
+        <td class="player large-link">
+          <a href="/players/gylfi-thor-sigurdhsson/57707/" class="flag_16 left_16 iceland_16_left">西古德森</a>
+          <img src="http://s1.swimg.net/gsmf/458/img/events/SO.png" width="13" height="13" title="替补" alt="替补" />
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+      <tr class="odd">
+        <td class="shirtnumber">17</td>
+        <td class="player large-link">
+          <a href="/players/andros-townsend/75627/" class="flag_16 left_16 england_16_left">A. 汤森德</a>
+          <img src="http://s1.swimg.net/gsmf/458/img/events/SO.png" width="13" height="13" title="替补" alt="替补" />
+        </td>
+        <td class="bookings">
+          <span><img src="http://s1.swimg.net/gsmf/458/img/events/YC.png" width="12" height="13" /> 47'</span>
+        </td>
+      </tr>
+      <tr class="even">
+        <td class="shirtnumber">23</td>
+        <td class="player large-link">
+          <a href="/players/christian-eriksen/95871/" class="flag_16 left_16 denmark_16_left">克里斯蒂安·埃里克森</a>
+          <img src="http://s1.swimg.net/gsmf/458/img/events/SO.png" width="13" height="13" title="替补" alt="替补" />
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+      <tr class="odd">
+        <td class="shirtnumber">9</td>
+        <td class="player large-link">
+          <a href="/players/roberto-soldado-rillo/3967/" class="flag_16 left_16 spain_16_left">索尔达多</a>
+          
+        </td>
+        <td class="bookings">
+          <span><img src="http://s1.swimg.net/gsmf/458/img/events/YC.png" width="12" height="13" /> 90+4'</span>
+        </td>
+      </tr>
+      <tr class="even">
+        <td colspan="3" style="padding: 0.5em;">
+          <strong>教练:</strong>
+          <a href="/coaches/luis-andre-pina-cabral-villas-boas/140282/" class="flag_16 left_16 portugal_16_left">博阿斯</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  
+</div>
+
+    </div>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+  
+  (function() {
+    var block = new Block('page_match_1_block_match_lineups_7', 'block_match_lineups', null);
+    
+        
+        
+    
+    
+    
+    TimestampFormatter.format('page_match_1_block_match_lineups_7');
+  })();
+</script>
+        <div class="block  clearfix block_match_substitutes-wrapper" id="page_match_1_block_match_substitutes_8-wrapper">
+  
+  <h2>候补球员</h2>
+  
+  
+  <div class="content  ">
+    <div class="block_match_substitutes real-content clearfix " id="page_match_1_block_match_substitutes_8">
+
+      <div class="container left">  
+  <table class="playerstats lineups substitutions table">
+    <thead>
+      <tr class="sub-head">
+        <th class="shirtnumber">#</th>
+        <th class="player">球员</th>
+        <th class="bookings">红黄牌</th>
+      </tr>
+    </thead>
+    <tbody>
+      
+      <tr class="odd">
+        <td class="shirtnumber">11</td>
+        <td class="player large-link">
+          <p class="substitute substitute-in">
+            <a href="/players/peter-odemwingie/2074/" class="flag_16 left_16 nigeria_16_left">奥德姆文吉</a>
+            <img src="http://s1.swimg.net/gsmf/458/img/events/SI.png" width="12" height="13" title="替补" alt="替补" />
+          </p>
+          <p class="substitute substitute-out">for <a href="/players/frazier-campbell/17423/">坎贝尔</a> 65'</p>
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+      <tr class="even">
+        <td class="shirtnumber">19</td>
+        <td class="player large-link">
+          <p class="substitute substitute-in">
+            <a href="/players/don-cowie/16536/" class="flag_16 left_16 scotland_16_left"> 科维</a>
+            <img src="http://s1.swimg.net/gsmf/458/img/events/SI.png" width="12" height="13" title="替补" alt="替补" />
+          </p>
+          <p class="substitute substitute-out">for <a href="/players/craig-bellamy/2982/">贝拉米</a> 77'</p>
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+      <tr class="odd">
+        <td class="shirtnumber">5</td>
+        <td class="player large-link">
+          <p class="substitute substitute-in">
+            <a href="/players/mark-hudson/15786/" class="flag_16 left_16 england_16_left">哈德森</a>
+            
+          </p>
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+      <tr class="even">
+        <td class="shirtnumber">18</td>
+        <td class="player large-link">
+          <p class="substitute substitute-in">
+            <a href="/players/jordon-mutch/23330/" class="flag_16 left_16 england_16_left">穆奇</a>
+            
+          </p>
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+      <tr class="odd">
+        <td class="shirtnumber">20</td>
+        <td class="player large-link">
+          <p class="substitute substitute-in">
+            <a href="/players/joe-mason/83507/" class="flag_16 left_16 ireland-republic_16_left">梅森</a>
+            
+          </p>
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+      <tr class="even">
+        <td class="shirtnumber">23</td>
+        <td class="player large-link">
+          <p class="substitute substitute-in">
+            <a href="/players/nicky-maynard/49361/" class="flag_16 left_16 england_16_left">梅纳德</a>
+            
+          </p>
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+      <tr class="odd">
+        <td class="shirtnumber">32</td>
+        <td class="player large-link">
+          <p class="substitute substitute-in">
+            <a href="/players/joe-lewis/51075/" class="flag_16 left_16 england_16_left">刘易斯</a>
+            
+          </p>
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div class="container right">  
+  <table class="playerstats lineups substitutions table">
+    <thead>
+      <tr class="sub-head">
+        <th class="shirtnumber">#</th>
+        <th class="player">球员</th>
+        <th class="bookings">红黄牌</th>
+      </tr>
+    </thead>
+    <tbody>
+      
+      <tr class="odd">
+        <td class="shirtnumber">11</td>
+        <td class="player large-link">
+          <p class="substitute substitute-in">
+            <a href="/players/erik-lamela/81992/" class="flag_16 left_16 argentina_16_left">拉梅拉</a>
+            <img src="http://s1.swimg.net/gsmf/458/img/events/SI.png" width="12" height="13" title="替补" alt="替补" />
+          </p>
+          <p class="substitute substitute-out">for <a href="/players/gylfi-thor-sigurdhsson/57707/">西古德森</a> 71'</p>
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+      <tr class="even">
+        <td class="shirtnumber">37</td>
+        <td class="player large-link">
+          <p class="substitute substitute-in">
+            <a href="/players/harry-kane/158575/" class="flag_16 left_16 england_16_left">H. Kane</a>
+            <img src="http://s1.swimg.net/gsmf/458/img/events/SI.png" width="12" height="13" title="替补" alt="替补" />
+          </p>
+          <p class="substitute substitute-out">for <a href="/players/andros-townsend/75627/">A. 汤森德</a> 82'</p>
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+      <tr class="odd">
+        <td class="shirtnumber">14</td>
+        <td class="player large-link">
+          <p class="substitute substitute-in">
+            <a href="/players/lewis-holtby/57544/" class="flag_16 left_16 germany_16_left">霍尔特比 </a>
+            <img src="http://s1.swimg.net/gsmf/458/img/events/SI.png" width="12" height="13" title="替补" alt="替补" />
+          </p>
+          <p class="substitute substitute-out">for <a href="/players/christian-eriksen/95871/">克里斯蒂安·埃里克森</a> 89'</p>
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+      <tr class="even">
+        <td class="shirtnumber">6</td>
+        <td class="player large-link">
+          <p class="substitute substitute-in">
+            <a href="/players/-chiriches/68268/" class="flag_16 left_16 romania_16_left">V. Chiriches</a>
+            
+          </p>
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+      <tr class="odd">
+        <td class="shirtnumber">24</td>
+        <td class="player large-link">
+          <p class="substitute substitute-in">
+            <a href="/players/brad-friedel/2681/" class="flag_16 left_16 united-states_16_left">弗里德尔</a>
+            
+          </p>
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+      <tr class="even">
+        <td class="shirtnumber">30</td>
+        <td class="player large-link">
+          <p class="substitute substitute-in">
+            <a href="/players/sandro-ranieri-guimaraes-cordeiro/65306/" class="flag_16 left_16 brazil_16_left">桑德罗</a>
+            
+          </p>
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+      <tr class="odd">
+        <td class="shirtnumber">35</td>
+        <td class="player large-link">
+          <p class="substitute substitute-in">
+            <a href="/players/ezekiel-fryers/158573/" class="flag_16 left_16 england_16_left">费耶斯</a>
+            
+          </p>
+        </td>
+        <td class="bookings">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+    </div>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+  
+  (function() {
+    var block = new Block('page_match_1_block_match_substitutes_8', 'block_match_substitutes', null);
+    
+        
+        
+    
+    
+    
+    TimestampFormatter.format('page_match_1_block_match_substitutes_8');
+  })();
+</script>
+      
+        <div class="block  clearfix block_match_additional_info-wrapper" id="page_match_1_block_match_additional_info_6-wrapper">
+  
+  <h2>附加信息</h2>
+  
+  
+  <div class="content  ">
+    <div class="block_match_additional_info real-content clearfix " id="page_match_1_block_match_additional_info_6">
+
+      <div class="fully-padded clearfix">
+  <dl class="details">
+    <dt>裁判:</dt>
+    <dd><a href="/referees/mark-clattenburg/44516/" class="flag_16 left_16 england_16_left referee">马克·克拉滕博格</a></dd>
+
+    <dt>助理:</dt>
+    <dd>
+      <a href="/referees/simon-beck/83465/" class="flag_16 left_16 england_16_left referee">S. Beck</a><br />
+      <a href="/referees/stephen-child/60421/" class="flag_16 left_16 england_16_left referee">斯蒂芬·乔</a>
+    </dd>
+
+    <dt>第四官员:</dt>
+    <dd><a href="/referees/anthony-taylor/60851/" class="flag_16 left_16 england_16_left referee">A. Taylor</a></dd>
+  </dl>
+</div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+  
+  (function() {
+    var block = new Block('page_match_1_block_match_additional_info_6', 'block_match_additional_info', null);
+    
+        
+        
+    
+    
+    
+    TimestampFormatter.format('page_match_1_block_match_additional_info_6');
+  })();
+</script>
+      
+        <div class="block  clearfix block_match_sidelined-wrapper" id="page_match_1_block_match_sidelined_9-wrapper">
+  
+  <h2>休战</h2>
+  
+  
+  <div class="content  ">
+    <div class="block_match_sidelined real-content clearfix " id="page_match_1_block_match_sidelined_9">
+
+      <table class="sidelined table right">
+    <tr class="group-head">
+      <th colspan="2"><h3><a href="/teams/england/tottenham-hotspur-football-club/675/">托特纳姆热刺</a></h3></th>
+    </tr>
+    <tr class="odd ">
+      <td class="player"><a href="/players/nacer-chadli/49530/" class="flag_16 left_16 belgium_16_left">N. 查德li</a></td>
+      
+      <td class="icon injury" title="Groin Strain"></td>
+      
+      
+      
+    </tr>
+    <tr class="odd ">
+      <td class="player"><a href="/players/younes-kaboul/1406/" class="flag_16 left_16 france_16_left">卡布尔 </a></td>
+      
+      <td class="icon injury" title="Groin Strain"></td>
+      
+      
+      
+    </tr>
+    <tr class="odd ">
+      <td class="player"><a href="/players/danny-rose/16050/" class="flag_16 left_16 england_16_left">罗斯</a></td>
+      
+      <td class="icon injury" title="Ankle/Foot Injury"></td>
+      
+      
+      
+    </tr>
+    <tr class="odd ">
+      <td class="player"><a href="/players/etienne-capoue/39171/" class="flag_16 left_16 france_16_left">卡鲍埃</a></td>
+      
+      <td class="icon injury" title="Ankle/Foot Injury"></td>
+      
+      
+      
+    </tr>
+    <tr class="odd ">
+      <td class="player"><a href="/players/aaron-lennon/190/" class="flag_16 left_16 england_16_left">列侬</a></td>
+      
+      <td class="icon injury" title="Ankle/Foot Injury"></td>
+      
+      
+      
+    </tr>
+</table>
+<table class="sidelined table left">
+    <tr class="group-head">
+      <th colspan="2"><h3><a href="/teams/wales/cardiff-city-fc/691/">卡迪夫城</a></h3></th>
+    </tr>
+    <tr class="odd ">
+      <td class="player"><a href="/players/andreas-cornelius/211765/" class="flag_16 left_16 denmark_16_left">科内柳斯</a></td>
+      
+      <td class="icon injury" title="Ankle/Foot Injury"></td>
+      
+      
+      
+    </tr>
+</table>
+
+    </div>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+  
+  (function() {
+    var block = new Block('page_match_1_block_match_sidelined_9', 'block_match_sidelined', null);
+    
+        
+        
+    
+    
+    
+    TimestampFormatter.format('page_match_1_block_match_sidelined_9');
+  })();
+</script>
+      
+        
+        
+      
+        
+
+        
+      
+        
+        
+      
+        
+      
+        
+
+        <div class="block  clearfix block_match_team_matches-wrapper" id="page_match_1_block_match_team_matches_12-wrapper">
+  <h2><a href="/teams/wales/cardiff-city-fc/691/matches/">卡迪夫城 赛事</a></h2>
+  
+  
+  
+  <div class="content  subnav-has-multiple">
+    <div class="subnav clearfix subnav-has-label subnav-first ">
+      <label for="page_match_1_block_match_team_matches_12_subnav">比赛:</label>
+      <ul id="page_match_1_block_match_team_matches_12_subnav">
+          <li class="selected">
+            <a id="page_match_1_block_match_team_matches_12_1_1" class="" >显示所有</a>
+          </li>
+          <li>
+            <a id="page_match_1_block_match_team_matches_12_1_2" class="" >英超联赛</a>
+          </li>
+          <li>
+            <a id="page_match_1_block_match_team_matches_12_1_3" class="" >联赛杯</a>
+          </li>
+          <li>
+            <a id="page_match_1_block_match_team_matches_12_1_4" class="" >俱乐部友谊赛</a>
+          </li>
+      </ul>
+    </div>
+    <div class="subnav clearfix subnav-has-label  subnav-last">
+      <label for="page_match_1_block_match_team_matches_12_subnav">显示:</label>
+      <ul id="page_match_1_block_match_team_matches_12_subnav">
+          <li class="selected">
+            <a id="page_match_1_block_match_team_matches_12_2_1" class="" >显示所有</a>
+          </li>
+          <li>
+            <a id="page_match_1_block_match_team_matches_12_2_2" class="" >主场</a>
+          </li>
+          <li>
+            <a id="page_match_1_block_match_team_matches_12_2_3" class="" >客场</a>
+          </li>
+      </ul>
+    </div>
+    <div class="block_match_team_matches real-content clearfix " id="page_match_1_block_match_team_matches_12">
+
+      <div id="page_match_1_block_match_team_matches_12_pagination" class="pagination match-pagination">
+  <span class="nav_description">
+  <a rel="previous" class="previous " id="page_match_1_block_match_team_matches_12_previous">&laquo; 前一页</a>
+  <a rel="next" class="next " id="page_match_1_block_match_team_matches_12_next">下一页 &raquo;</a>
+  </span>
+</div>
+
+
+<div class="table-container">
+  <table class="matches   ">
+    <thead>
+      <tr class="sub-head">
+        <th class="day">天数</th>
+        
+        
+        <th class="full-date">日期</th>
+        <th class="competition">比赛</th>
+        <th class="outcome">结果</th>
+        
+        <th class="team team-a">主队</th>
+        
+        <th class="score-time">得分/时间</th>
+        <th class="team team-b">客队</th>
+        
+        
+        <th class="events-button button">&nbsp;</th>
+        
+      </tr>
+    </thead>
+    <tbody>
+          
+          <tr class="even      match no-date-repetition" data-timestamp="1379167200" id="page_match_1_block_match_team_matches_12_match-1483490">
+            <td class="day no-repetition"><span class='timestamp' data-value='1379167200' data-format='ddd'>六</span></td>
+            
+            
+            <td class="full-date" nowrap="nowrap"><span class='timestamp' data-value='1379167200' data-format='dd/mm/yy'>14/09/13</span></td>
+            <td class="competition"><a href="/national/england/premier-league/20132014/regular-season/r21322/" title="英超联赛">英超联</a></td>
+            
+              <td class="team team-a ">
+                  <a href="/teams/england/hull-city-afc/725/" title="赫尔城">
+                    赫尔城
+                  </a>
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2013/09/14/england/premier-league/hull-city-afc/cardiff-city-fc/1483490/" class="result-draw">
+                
+                1 - 1
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/wales/cardiff-city-fc/691/" title="卡迪夫城">
+                  卡迪夫城
+                </a>
+              </td>
+            <td class="events-button button first-occur">
+              <a href="/matches/2013/09/14/england/premier-league/hull-city-afc/cardiff-city-fc/1483490/#events" title="观看赛事" class="events-button-button ">观看赛事</a>
+            </td>
+
+              <td class="info-button button">
+          
+                  <a href="/matches/2013/09/14/england/premier-league/hull-city-afc/cardiff-city-fc/1483490/" title="更多信息">更多信息</a>
+ 
+
+                
+              </td>
+
+            
+            
+             
+          </tr>
+          <tr class="odd      match no-date-repetition" data-timestamp="1379862000" id="page_match_1_block_match_team_matches_12_match-1483498">
+            <td class="day no-repetition"><span class='timestamp' data-value='1379862000' data-format='ddd'>日</span></td>
+            
+            
+            <td class="full-date" nowrap="nowrap"><span class='timestamp' data-value='1379862000' data-format='dd/mm/yy'>22/09/13</span></td>
+            <td class="competition"><a href="/national/england/premier-league/20132014/regular-season/r21322/" title="英超联赛">英超联</a></td>
+            
+              <td class="team team-a ">
+                  <a href="/teams/wales/cardiff-city-fc/691/" title="卡迪夫城">
+                    卡迪夫城
+                  </a>
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2013/09/22/england/premier-league/cardiff-city-fc/tottenham-hotspur-football-club/1483498/" class="result-loss">
+                
+                0 - 1
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/england/tottenham-hotspur-football-club/675/" title="托特纳姆热刺">
+                  托特纳姆热刺
+                </a>
+              </td>
+            <td class="events-button button first-occur">
+              <a href="/matches/2013/09/22/england/premier-league/cardiff-city-fc/tottenham-hotspur-football-club/1483498/#events" title="观看赛事" class="events-button-button ">观看赛事</a>
+            </td>
+
+              <td class="info-button button">
+          
+                  <a href="/matches/2013/09/22/england/premier-league/cardiff-city-fc/tottenham-hotspur-football-club/1483498/" title="更多信息">更多信息</a>
+ 
+
+                
+              </td>
+
+            
+            
+             
+          </tr>
+          <tr class="even      match no-date-repetition" data-timestamp="1380048300" id="page_match_1_block_match_team_matches_12_match-1584131">
+            <td class="day no-repetition"><span class='timestamp' data-value='1380048300' data-format='ddd'>二</span></td>
+            
+            
+            <td class="full-date" nowrap="nowrap"><span class='timestamp' data-value='1380048300' data-format='dd/mm/yy'>24/09/13</span></td>
+            <td class="competition"><a href="/national/england/league-cup/20132014/3rd-round/r21710/" title="联赛杯">联赛杯</a></td>
+            
+              <td class="team team-a ">
+                  <a href="/teams/england/west-ham-united-fc/684/" title="西汉姆联">
+                    西汉姆联
+                  </a>
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2013/09/24/england/league-cup/west-ham-united-fc/cardiff-city-fc/1584131/" class="result-loss">
+                
+                3 - 2
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/wales/cardiff-city-fc/691/" title="卡迪夫城">
+                  卡迪夫城
+                </a>
+              </td>
+            <td class="events-button button first-occur">
+              <a href="/matches/2013/09/24/england/league-cup/west-ham-united-fc/cardiff-city-fc/1584131/#events" title="观看赛事" class="events-button-button ">观看赛事</a>
+            </td>
+
+              <td class="info-button button">
+          
+                  <a href="/matches/2013/09/24/england/league-cup/west-ham-united-fc/cardiff-city-fc/1584131/" title="更多信息">更多信息</a>
+ 
+
+                
+              </td>
+
+            
+            
+             
+          </tr>
+          <tr class="odd      match no-date-repetition" data-timestamp="1380376800" id="page_match_1_block_match_team_matches_12_match-1483509">
+            <td class="day no-repetition"><span class='timestamp' data-value='1380376800' data-format='ddd'>六</span></td>
+            
+            
+            <td class="full-date" nowrap="nowrap"><span class='timestamp' data-value='1380376800' data-format='dd/mm/yy'>28/09/13</span></td>
+            <td class="competition"><a href="/national/england/premier-league/20132014/regular-season/r21322/" title="英超联赛">英超联</a></td>
+            
+              <td class="team team-a ">
+                  <a href="/teams/england/fulham-football-club/667/" title="富勒姆">
+                    富勒姆
+                  </a>
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2013/09/28/england/premier-league/fulham-football-club/cardiff-city-fc/1483509/" class="result-win">
+                
+                1 - 2
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/wales/cardiff-city-fc/691/" title="卡迪夫城">
+                  卡迪夫城
+                </a>
+              </td>
+            <td class="events-button button first-occur">
+              <a href="/matches/2013/09/28/england/premier-league/fulham-football-club/cardiff-city-fc/1483509/#events" title="观看赛事" class="events-button-button ">观看赛事</a>
+            </td>
+
+              <td class="info-button button">
+          
+                  <a href="/matches/2013/09/28/england/premier-league/fulham-football-club/cardiff-city-fc/1483509/" title="更多信息">更多信息</a>
+ 
+
+                
+              </td>
+
+            
+            
+             
+          </tr>
+          <tr class="even      match no-date-repetition" data-timestamp="1380981600" id="page_match_1_block_match_team_matches_12_match-1483517">
+            <td class="day no-repetition"><span class='timestamp' data-value='1380981600' data-format='ddd'>六</span></td>
+            
+            
+            <td class="full-date" nowrap="nowrap"><span class='timestamp' data-value='1380981600' data-format='dd/mm/yy'>05/10/13</span></td>
+            <td class="competition"><a href="/national/england/premier-league/20132014/regular-season/r21322/" title="英超联赛">英超联</a></td>
+            
+              <td class="team team-a ">
+                  <a href="/teams/wales/cardiff-city-fc/691/" title="卡迪夫城">
+                    卡迪夫城
+                  </a>
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2013/10/05/england/premier-league/cardiff-city-fc/newcastle-united-football-club/1483517/" class="result-loss">
+                
+                1 - 2
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/england/newcastle-united-football-club/664/" title="纽卡斯尔联">
+                  纽卡斯尔联
+                </a>
+              </td>
+            <td class="events-button button first-occur">
+              <a href="/matches/2013/10/05/england/premier-league/cardiff-city-fc/newcastle-united-football-club/1483517/#events" title="观看赛事" class="events-button-button ">观看赛事</a>
+            </td>
+
+              <td class="info-button button">
+          
+                  <a href="/matches/2013/10/05/england/premier-league/cardiff-city-fc/newcastle-united-football-club/1483517/" title="更多信息">更多信息</a>
+ 
+
+                
+              </td>
+
+            
+            
+             
+          </tr>
+          <tr class="odd      match no-date-repetition" data-timestamp="1382191200" id="page_match_1_block_match_team_matches_12_match-1483529">
+            <td class="day no-repetition"><span class='timestamp' data-value='1382191200' data-format='ddd'>六</span></td>
+            
+            
+            <td class="full-date" nowrap="nowrap"><span class='timestamp' data-value='1382191200' data-format='dd/mm/yy'>19/10/13</span></td>
+            <td class="competition"><a href="/national/england/premier-league/20132014/regular-season/r21322/" title="英超联赛">英超联</a></td>
+            
+              <td class="team team-a ">
+                  <a href="/teams/england/chelsea-football-club/661/" title="切尔西">
+                    切尔西
+                  </a>
+              </td>                       
+            
+            <td class="score-time status">
+              <a href="/matches/2013/10/19/england/premier-league/chelsea-football-club/cardiff-city-fc/1483529/">
+                
+                <span class='timestamp' data-value='1382191200' data-format='HH : MM'>16 : 00</span>
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/wales/cardiff-city-fc/691/" title="卡迪夫城">
+                  卡迪夫城
+                </a>
+              </td>
+            <td class="events-button button first-occur">
+              
+            </td>
+
+              <td class="info-button button">
+          
+                  <a href="/matches/2013/10/19/england/premier-league/chelsea-football-club/cardiff-city-fc/1483529/" title="更多信息">更多信息</a>
+ 
+
+                
+              </td>
+
+            
+            
+             
+          </tr>
+          <tr class="even      match no-date-repetition" data-timestamp="1382796000" id="page_match_1_block_match_team_matches_12_match-1483542">
+            <td class="day no-repetition"><span class='timestamp' data-value='1382796000' data-format='ddd'>六</span></td>
+            
+            
+            <td class="full-date" nowrap="nowrap"><span class='timestamp' data-value='1382796000' data-format='dd/mm/yy'>26/10/13</span></td>
+            <td class="competition"><a href="/national/england/premier-league/20132014/regular-season/r21322/" title="英超联赛">英超联</a></td>
+            
+              <td class="team team-a ">
+                  <a href="/teams/england/norwich-city-fc/677/" title="诺维奇">
+                    诺维奇
+                  </a>
+              </td>                       
+            
+            <td class="score-time status">
+              <a href="/matches/2013/10/26/england/premier-league/norwich-city-fc/cardiff-city-fc/1483542/">
+                
+                <span class='timestamp' data-value='1382796000' data-format='HH : MM'>16 : 00</span>
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/wales/cardiff-city-fc/691/" title="卡迪夫城">
+                  卡迪夫城
+                </a>
+              </td>
+            <td class="events-button button first-occur">
+              
+            </td>
+
+              <td class="info-button button">
+          
+                  <a href="/matches/2013/10/26/england/premier-league/norwich-city-fc/cardiff-city-fc/1483542/" title="更多信息">更多信息</a>
+ 
+
+                
+              </td>
+
+            
+            
+             
+          </tr>
+          <tr class="odd      match no-date-repetition" data-timestamp="1383494400" id="page_match_1_block_match_team_matches_12_match-1483548">
+            <td class="day no-repetition"><span class='timestamp' data-value='1383494400' data-format='ddd'>日</span></td>
+            
+            
+            <td class="full-date" nowrap="nowrap"><span class='timestamp' data-value='1383494400' data-format='dd/mm/yy'>03/11/13</span></td>
+            <td class="competition"><a href="/national/england/premier-league/20132014/regular-season/r21322/" title="英超联赛">英超联</a></td>
+            
+              <td class="team team-a ">
+                  <a href="/teams/wales/cardiff-city-fc/691/" title="卡迪夫城">
+                    卡迪夫城
+                  </a>
+              </td>                       
+            
+            <td class="score-time status">
+              <a href="/matches/2013/11/03/england/premier-league/cardiff-city-fc/swansea-city-afc/1483548/">
+                
+                <span class='timestamp' data-value='1383494400' data-format='HH : MM'>17 : 00</span>
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/wales/swansea-city-afc/738/" title="斯旺西">
+                  斯旺西
+                </a>
+              </td>
+            <td class="events-button button first-occur">
+              
+            </td>
+
+              <td class="info-button button">
+          
+                  <a href="/matches/2013/11/03/england/premier-league/cardiff-city-fc/swansea-city-afc/1483548/" title="更多信息">更多信息</a>
+ 
+
+                
+              </td>
+
+            
+            
+             
+          </tr>
+          <tr class="even      match no-date-repetition" data-timestamp="1384009200" id="page_match_1_block_match_team_matches_12_match-1483557">
+            <td class="day no-repetition"><span class='timestamp' data-value='1384009200' data-format='ddd'>六</span></td>
+            
+            
+            <td class="full-date" nowrap="nowrap"><span class='timestamp' data-value='1384009200' data-format='dd/mm/yy'>09/11/13</span></td>
+            <td class="competition"><a href="/national/england/premier-league/20132014/regular-season/r21322/" title="英超联赛">英超联</a></td>
+            
+              <td class="team team-a ">
+                  <a href="/teams/england/aston-villa-football-club/665/" title="阿斯顿维拉">
+                    阿斯顿维拉
+                  </a>
+              </td>                       
+            
+            <td class="score-time status">
+              <a href="/matches/2013/11/09/england/premier-league/aston-villa-football-club/cardiff-city-fc/1483557/">
+                
+                <span class='timestamp' data-value='1384009200' data-format='HH : MM'>16 : 00</span>
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/wales/cardiff-city-fc/691/" title="卡迪夫城">
+                  卡迪夫城
+                </a>
+              </td>
+            <td class="events-button button first-occur">
+              
+            </td>
+
+              <td class="info-button button">
+          
+                  <a href="/matches/2013/11/09/england/premier-league/aston-villa-football-club/cardiff-city-fc/1483557/" title="更多信息">更多信息</a>
+ 
+
+                
+              </td>
+
+            
+            
+             
+          </tr>
+          <tr class="odd      match no-date-repetition" data-timestamp="1385308800" id="page_match_1_block_match_team_matches_12_match-1483568">
+            <td class="day no-repetition"><span class='timestamp' data-value='1385308800' data-format='ddd'>日</span></td>
+            
+            
+            <td class="full-date" nowrap="nowrap"><span class='timestamp' data-value='1385308800' data-format='dd/mm/yy'>24/11/13</span></td>
+            <td class="competition"><a href="/national/england/premier-league/20132014/regular-season/r21322/" title="英超联赛">英超联</a></td>
+            
+              <td class="team team-a ">
+                  <a href="/teams/wales/cardiff-city-fc/691/" title="卡迪夫城">
+                    卡迪夫城
+                  </a>
+              </td>                       
+            
+            <td class="score-time status">
+              <a href="/matches/2013/11/24/england/premier-league/cardiff-city-fc/manchester-united-fc/1483568/">
+                
+                <span class='timestamp' data-value='1385308800' data-format='HH : MM'>17 : 00</span>
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/england/manchester-united-fc/662/" title="曼联">
+                  曼联
+                </a>
+              </td>
+            <td class="events-button button first-occur">
+              
+            </td>
+
+              <td class="info-button button">
+          
+                  <a href="/matches/2013/11/24/england/premier-league/cardiff-city-fc/manchester-united-fc/1483568/" title="更多信息">更多信息</a>
+ 
+
+                
+              </td>
+
+            
+            
+             
+          </tr>
+    </tbody>
+  </table>
+</div>
+
+<script type="text/javascript" charset="utf-8">
+  /* <![CDATA[ */
+  /* ]]> */
+</script>
+
+
+    </div>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+  
+  (function() {
+    var block = new MatchesBlock('page_match_1_block_match_team_matches_12', 'block_match_team_matches', {"page":0,"bookmaker_urls":[],"block_service_id":"match_summary_block_matchteammatches","team_id":691,"competition_id":0,"filter":"all"});
+    block.registerForCallbacks();
+    block.addCallbackObserver('page_match_1_block_match_team_matches_12_1_1', 'changeCompetition', {"competition_id":0});
+block.addCallbackObserver('page_match_1_block_match_team_matches_12_1_2', 'changeCompetition', {"competition_id":8});
+block.addCallbackObserver('page_match_1_block_match_team_matches_12_1_3', 'changeCompetition', {"competition_id":95});
+block.addCallbackObserver('page_match_1_block_match_team_matches_12_1_4', 'changeCompetition', {"competition_id":732});
+block.addCallbackObserver('page_match_1_block_match_team_matches_12_2_1', 'filterMatches', {"filter":"all"});
+block.addCallbackObserver('page_match_1_block_match_team_matches_12_2_2', 'filterMatches', {"filter":"home"});
+block.addCallbackObserver('page_match_1_block_match_team_matches_12_2_3', 'filterMatches', {"filter":"away"});
+    
+        
+    
+      block.setAttribute('colspan_left', 4);
+  block.setAttribute('colspan_right', 3);
+  
+  block.setAttribute('has_previous_page', true);
+  block.setAttribute('has_next_page', true);
+
+    
+    TimestampFormatter.format('page_match_1_block_match_team_matches_12');
+  })();
+</script>
+        <div class="block  clearfix block_match_team_matches-wrapper" id="page_match_1_block_match_team_matches_13-wrapper">
+  <h2><a href="/teams/england/tottenham-hotspur-football-club/675/matches/">托特纳姆热刺 赛事</a></h2>
+  
+  
+  
+  <div class="content  subnav-has-multiple">
+    <div class="subnav clearfix subnav-has-label subnav-first ">
+      <label for="page_match_1_block_match_team_matches_13_subnav">比赛:</label>
+      <ul id="page_match_1_block_match_team_matches_13_subnav">
+          <li class="selected">
+            <a id="page_match_1_block_match_team_matches_13_1_1" class="" >显示所有</a>
+          </li>
+          <li>
+            <a id="page_match_1_block_match_team_matches_13_1_2" class="" >英超联赛</a>
+          </li>
+          <li>
+            <a id="page_match_1_block_match_team_matches_13_1_3" class="" >联赛杯</a>
+          </li>
+          <li>
+            <a id="page_match_1_block_match_team_matches_13_1_4" class="" >俱乐部友谊赛</a>
+          </li>
+          <li>
+            <a id="page_match_1_block_match_team_matches_13_1_5" class="" >欧洲联赛</a>
+          </li>
+      </ul>
+    </div>
+    <div class="subnav clearfix subnav-has-label  subnav-last">
+      <label for="page_match_1_block_match_team_matches_13_subnav">显示:</label>
+      <ul id="page_match_1_block_match_team_matches_13_subnav">
+          <li class="selected">
+            <a id="page_match_1_block_match_team_matches_13_2_1" class="" >显示所有</a>
+          </li>
+          <li>
+            <a id="page_match_1_block_match_team_matches_13_2_2" class="" >主场</a>
+          </li>
+          <li>
+            <a id="page_match_1_block_match_team_matches_13_2_3" class="" >客场</a>
+          </li>
+      </ul>
+    </div>
+    <div class="block_match_team_matches real-content clearfix " id="page_match_1_block_match_team_matches_13">
+
+      <div id="page_match_1_block_match_team_matches_13_pagination" class="pagination match-pagination">
+  <span class="nav_description">
+  <a rel="previous" class="previous " id="page_match_1_block_match_team_matches_13_previous">&laquo; 前一页</a>
+  <a rel="next" class="next " id="page_match_1_block_match_team_matches_13_next">下一页 &raquo;</a>
+  </span>
+</div>
+
+
+<div class="table-container">
+  <table class="matches   ">
+    <thead>
+      <tr class="sub-head">
+        <th class="day">天数</th>
+        
+        
+        <th class="full-date">日期</th>
+        <th class="competition">比赛</th>
+        <th class="outcome">结果</th>
+        
+        <th class="team team-a">主队</th>
+        
+        <th class="score-time">得分/时间</th>
+        <th class="team team-b">客队</th>
+        
+        
+        <th class="events-button button">&nbsp;</th>
+        
+      </tr>
+    </thead>
+    <tbody>
+          
+          <tr class="even      match no-date-repetition" data-timestamp="1379862000" id="page_match_1_block_match_team_matches_13_match-1483498">
+            <td class="day no-repetition"><span class='timestamp' data-value='1379862000' data-format='ddd'>日</span></td>
+            
+            
+            <td class="full-date" nowrap="nowrap"><span class='timestamp' data-value='1379862000' data-format='dd/mm/yy'>22/09/13</span></td>
+            <td class="competition"><a href="/national/england/premier-league/20132014/regular-season/r21322/" title="英超联赛">英超联</a></td>
+            
+              <td class="team team-a ">
+                  <a href="/teams/wales/cardiff-city-fc/691/" title="卡迪夫城">
+                    卡迪夫城
+                  </a>
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2013/09/22/england/premier-league/cardiff-city-fc/tottenham-hotspur-football-club/1483498/" class="result-win">
+                
+                0 - 1
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/england/tottenham-hotspur-football-club/675/" title="托特纳姆热刺">
+                  托特纳姆热刺
+                </a>
+              </td>
+            <td class="events-button button first-occur">
+              <a href="/matches/2013/09/22/england/premier-league/cardiff-city-fc/tottenham-hotspur-football-club/1483498/#events" title="观看赛事" class="events-button-button ">观看赛事</a>
+            </td>
+
+              <td class="info-button button">
+          
+                  <a href="/matches/2013/09/22/england/premier-league/cardiff-city-fc/tottenham-hotspur-football-club/1483498/" title="更多信息">更多信息</a>
+ 
+
+                
+              </td>
+
+            
+            
+             
+          </tr>
+          <tr class="odd      match no-date-repetition" data-timestamp="1380048300" id="page_match_1_block_match_team_matches_13_match-1584140">
+            <td class="day no-repetition"><span class='timestamp' data-value='1380048300' data-format='ddd'>二</span></td>
+            
+            
+            <td class="full-date" nowrap="nowrap"><span class='timestamp' data-value='1380048300' data-format='dd/mm/yy'>24/09/13</span></td>
+            <td class="competition"><a href="/national/england/league-cup/20132014/3rd-round/r21710/" title="联赛杯">联赛杯</a></td>
+            
+              <td class="team team-a ">
+                  <a href="/teams/england/aston-villa-football-club/665/" title="阿斯顿维拉">
+                    阿斯顿维拉
+                  </a>
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2013/09/24/england/league-cup/aston-villa-football-club/tottenham-hotspur-football-club/1584140/" class="result-win">
+                
+                0 - 4
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/england/tottenham-hotspur-football-club/675/" title="托特纳姆热刺">
+                  托特纳姆热刺
+                </a>
+              </td>
+            <td class="events-button button first-occur">
+              <a href="/matches/2013/09/24/england/league-cup/aston-villa-football-club/tottenham-hotspur-football-club/1584140/#events" title="观看赛事" class="events-button-button ">观看赛事</a>
+            </td>
+
+              <td class="info-button button">
+          
+                  <a href="/matches/2013/09/24/england/league-cup/aston-villa-football-club/tottenham-hotspur-football-club/1584140/" title="更多信息">更多信息</a>
+ 
+
+                
+              </td>
+
+            
+            
+             
+          </tr>
+          <tr class="even      match no-date-repetition" data-timestamp="1380368700" id="page_match_1_block_match_team_matches_13_match-1483516">
+            <td class="day no-repetition"><span class='timestamp' data-value='1380368700' data-format='ddd'>六</span></td>
+            
+            
+            <td class="full-date" nowrap="nowrap"><span class='timestamp' data-value='1380368700' data-format='dd/mm/yy'>28/09/13</span></td>
+            <td class="competition"><a href="/national/england/premier-league/20132014/regular-season/r21322/" title="英超联赛">英超联</a></td>
+            
+              <td class="team team-a ">
+                  <a href="/teams/england/tottenham-hotspur-football-club/675/" title="托特纳姆热刺">
+                    托特纳姆热刺
+                  </a>
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2013/09/28/england/premier-league/tottenham-hotspur-football-club/chelsea-football-club/1483516/" class="result-draw">
+                
+                1 - 1
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/england/chelsea-football-club/661/" title="切尔西">
+                  切尔西
+                </a>
+              </td>
+            <td class="events-button button first-occur">
+              <a href="/matches/2013/09/28/england/premier-league/tottenham-hotspur-football-club/chelsea-football-club/1483516/#events" title="观看赛事" class="events-button-button ">观看赛事</a>
+            </td>
+
+              <td class="info-button button">
+          
+                  <a href="/matches/2013/09/28/england/premier-league/tottenham-hotspur-football-club/chelsea-football-club/1483516/" title="更多信息">更多信息</a>
+ 
+
+                
+              </td>
+
+            
+            
+             
+          </tr>
+          <tr class="odd      match no-date-repetition" data-timestamp="1380816000" id="page_match_1_block_match_team_matches_13_match-1584746">
+            <td class="day no-repetition"><span class='timestamp' data-value='1380816000' data-format='ddd'>四</span></td>
+            
+            
+            <td class="full-date" nowrap="nowrap"><span class='timestamp' data-value='1380816000' data-format='dd/mm/yy'>03/10/13</span></td>
+            <td class="competition"><a href="/international/europe/uefa-cup/20132014/group-stage/group-k/g6225/" title="欧洲联赛">欧洲联</a></td>
+            
+              <td class="team team-a ">
+                  <a href="/teams/russia/anzhi-makhachkala/1868/" title="安郅">
+                    安郅
+                  </a>
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2013/10/03/europe/uefa-cup/anzhi-makhachkala/tottenham-hotspur-football-club/1584746/" class="result-win">
+                
+                0 - 2
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/england/tottenham-hotspur-football-club/675/" title="托特纳姆热刺">
+                  托特纳姆热刺
+                </a>
+              </td>
+            <td class="events-button button first-occur">
+              <a href="/matches/2013/10/03/europe/uefa-cup/anzhi-makhachkala/tottenham-hotspur-football-club/1584746/#events" title="观看赛事" class="events-button-button ">观看赛事</a>
+            </td>
+
+              <td class="info-button button">
+          
+                  <a href="/matches/2013/10/03/europe/uefa-cup/anzhi-makhachkala/tottenham-hotspur-football-club/1584746/" title="更多信息">更多信息</a>
+ 
+
+                
+              </td>
+
+            
+            
+             
+          </tr>
+          <tr class="even      match no-date-repetition" data-timestamp="1381071600" id="page_match_1_block_match_team_matches_13_match-1483525">
+            <td class="day no-repetition"><span class='timestamp' data-value='1381071600' data-format='ddd'>日</span></td>
+            
+            
+            <td class="full-date" nowrap="nowrap"><span class='timestamp' data-value='1381071600' data-format='dd/mm/yy'>06/10/13</span></td>
+            <td class="competition"><a href="/national/england/premier-league/20132014/regular-season/r21322/" title="英超联赛">英超联</a></td>
+            
+              <td class="team team-a ">
+                  <a href="/teams/england/tottenham-hotspur-football-club/675/" title="托特纳姆热刺">
+                    托特纳姆热刺
+                  </a>
+              </td>                       
+            
+            <td class="score-time score">
+              <a href="/matches/2013/10/06/england/premier-league/tottenham-hotspur-football-club/west-ham-united-fc/1483525/" class="result-loss">
+                
+                0 - 3
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/england/west-ham-united-fc/684/" title="西汉姆联">
+                  西汉姆联
+                </a>
+              </td>
+            <td class="events-button button first-occur">
+              <a href="/matches/2013/10/06/england/premier-league/tottenham-hotspur-football-club/west-ham-united-fc/1483525/#events" title="观看赛事" class="events-button-button ">观看赛事</a>
+            </td>
+
+              <td class="info-button button">
+          
+                  <a href="/matches/2013/10/06/england/premier-league/tottenham-hotspur-football-club/west-ham-united-fc/1483525/" title="更多信息">更多信息</a>
+ 
+
+                
+              </td>
+
+            
+            
+             
+          </tr>
+          <tr class="odd      match no-date-repetition" data-timestamp="1382281200" id="page_match_1_block_match_team_matches_13_match-1483528">
+            <td class="day no-repetition"><span class='timestamp' data-value='1382281200' data-format='ddd'>日</span></td>
+            
+            
+            <td class="full-date" nowrap="nowrap"><span class='timestamp' data-value='1382281200' data-format='dd/mm/yy'>20/10/13</span></td>
+            <td class="competition"><a href="/national/england/premier-league/20132014/regular-season/r21322/" title="英超联赛">英超联</a></td>
+            
+              <td class="team team-a ">
+                  <a href="/teams/england/aston-villa-football-club/665/" title="阿斯顿维拉">
+                    阿斯顿维拉
+                  </a>
+              </td>                       
+            
+            <td class="score-time status">
+              <a href="/matches/2013/10/20/england/premier-league/aston-villa-football-club/tottenham-hotspur-football-club/1483528/">
+                
+                <span class='timestamp' data-value='1382281200' data-format='HH : MM'>17 : 00</span>
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/england/tottenham-hotspur-football-club/675/" title="托特纳姆热刺">
+                  托特纳姆热刺
+                </a>
+              </td>
+            <td class="events-button button first-occur">
+              
+            </td>
+
+              <td class="widget1x2-button button">
+          
+ 
+                  <a class="odds-button-button" id="odds-1483528" title="赔率" href="#">赔率</a>
+
+                
+              </td>
+
+            
+            
+             
+          </tr>
+          <tr class="even      match no-date-repetition" data-timestamp="1382634000" id="page_match_1_block_match_team_matches_13_match-1584770">
+            <td class="day no-repetition"><span class='timestamp' data-value='1382634000' data-format='ddd'>四</span></td>
+            
+            
+            <td class="full-date" nowrap="nowrap"><span class='timestamp' data-value='1382634000' data-format='dd/mm/yy'>24/10/13</span></td>
+            <td class="competition"><a href="/international/europe/uefa-cup/20132014/group-stage/group-k/g6225/" title="欧洲联赛">欧洲联</a></td>
+            
+              <td class="team team-a ">
+                  <a href="/teams/moldova/fc-sheriff-tiraspol/1498/" title="谢里夫">
+                    谢里夫
+                  </a>
+              </td>                       
+            
+            <td class="score-time status">
+              <a href="/matches/2013/10/24/europe/uefa-cup/fc-sheriff-tiraspol/tottenham-hotspur-football-club/1584770/">
+                
+                <span class='timestamp' data-value='1382634000' data-format='HH : MM'>19 : 00</span>
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/england/tottenham-hotspur-football-club/675/" title="托特纳姆热刺">
+                  托特纳姆热刺
+                </a>
+              </td>
+            <td class="events-button button first-occur">
+              
+            </td>
+
+              <td class="widget1x2-button button">
+          
+ 
+                  <a class="odds-button-button" id="odds-1584770" title="赔率" href="#">赔率</a>
+
+                
+              </td>
+
+            
+            
+             
+          </tr>
+          <tr class="odd      match no-date-repetition" data-timestamp="1382889600" id="page_match_1_block_match_team_matches_13_match-1483546">
+            <td class="day no-repetition"><span class='timestamp' data-value='1382889600' data-format='ddd'>日</span></td>
+            
+            
+            <td class="full-date" nowrap="nowrap"><span class='timestamp' data-value='1382889600' data-format='dd/mm/yy'>27/10/13</span></td>
+            <td class="competition"><a href="/national/england/premier-league/20132014/regular-season/r21322/" title="英超联赛">英超联</a></td>
+            
+              <td class="team team-a ">
+                  <a href="/teams/england/tottenham-hotspur-football-club/675/" title="托特纳姆热刺">
+                    托特纳姆热刺
+                  </a>
+              </td>                       
+            
+            <td class="score-time status">
+              <a href="/matches/2013/10/27/england/premier-league/tottenham-hotspur-football-club/hull-city-afc/1483546/">
+                
+                <span class='timestamp' data-value='1382889600' data-format='HH : MM'>17 : 00</span>
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/england/hull-city-afc/725/" title="赫尔城">
+                  赫尔城
+                </a>
+              </td>
+            <td class="events-button button first-occur">
+              
+            </td>
+
+              <td class="widget1x2-button button">
+          
+ 
+                  <a class="odds-button-button" id="odds-1483546" title="赔率" href="#">赔率</a>
+
+                
+              </td>
+
+            
+            
+             
+          </tr>
+          <tr class="even      match no-date-repetition" data-timestamp="1383162300" id="page_match_1_block_match_team_matches_13_match-1595775">
+            <td class="day no-repetition"><span class='timestamp' data-value='1383162300' data-format='ddd'>三</span></td>
+            
+            
+            <td class="full-date" nowrap="nowrap"><span class='timestamp' data-value='1383162300' data-format='dd/mm/yy'>30/10/13</span></td>
+            <td class="competition"><a href="/national/england/league-cup/20132014/8th-finals/r21709/" title="联赛杯">联赛杯</a></td>
+            
+              <td class="team team-a ">
+                  <a href="/teams/england/tottenham-hotspur-football-club/675/" title="托特纳姆热刺">
+                    托特纳姆热刺
+                  </a>
+              </td>                       
+            
+            <td class="score-time status">
+              <a href="/matches/2013/10/30/england/league-cup/tottenham-hotspur-football-club/hull-city-afc/1595775/">
+                
+                <span class='timestamp' data-value='1383162300' data-format='HH : MM'>20 : 45</span>
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/england/hull-city-afc/725/" title="赫尔城">
+                  赫尔城
+                </a>
+              </td>
+            <td class="events-button button first-occur">
+              
+            </td>
+
+              <td class="widget1x2-button button">
+          
+ 
+                  <a class="odds-button-button" id="odds-1595775" title="赔率" href="#">赔率</a>
+
+                
+              </td>
+
+            
+            
+             
+          </tr>
+          <tr class="odd      match no-date-repetition" data-timestamp="1383485400" id="page_match_1_block_match_team_matches_13_match-1483549">
+            <td class="day no-repetition"><span class='timestamp' data-value='1383485400' data-format='ddd'>日</span></td>
+            
+            
+            <td class="full-date" nowrap="nowrap"><span class='timestamp' data-value='1383485400' data-format='dd/mm/yy'>03/11/13</span></td>
+            <td class="competition"><a href="/national/england/premier-league/20132014/regular-season/r21322/" title="英超联赛">英超联</a></td>
+            
+              <td class="team team-a ">
+                  <a href="/teams/england/everton-football-club/674/" title="埃弗顿">
+                    埃弗顿
+                  </a>
+              </td>                       
+            
+            <td class="score-time status">
+              <a href="/matches/2013/11/03/england/premier-league/everton-football-club/tottenham-hotspur-football-club/1483549/">
+                
+                <span class='timestamp' data-value='1383485400' data-format='HH : MM'>14 : 30</span>
+                
+              </a>
+            </td>
+              <td class="team team-b ">
+                <a href="/teams/england/tottenham-hotspur-football-club/675/" title="托特纳姆热刺">
+                  托特纳姆热刺
+                </a>
+              </td>
+            <td class="events-button button first-occur">
+              
+            </td>
+
+              <td class="widget1x2-button button">
+          
+ 
+                  <a class="odds-button-button" id="odds-1483549" title="赔率" href="#">赔率</a>
+
+                
+              </td>
+
+            
+            
+             
+          </tr>
+    </tbody>
+  </table>
+</div>
+
+<script type="text/javascript" charset="utf-8">
+  /* <![CDATA[ */
+  /* ]]> */
+</script>
+
+
+    </div>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+  
+  (function() {
+    var block = new MatchesBlock('page_match_1_block_match_team_matches_13', 'block_match_team_matches', {"page":0,"bookmaker_urls":{"5":"http:\/\/media.paddypower.com\/redirect.aspx?pid=10069300&bid=5540"},"block_service_id":"match_summary_block_matchteammatches","team_id":675,"competition_id":0,"filter":"all"});
+    block.registerForCallbacks();
+    block.addCallbackObserver('page_match_1_block_match_team_matches_13_1_1', 'changeCompetition', {"competition_id":0});
+block.addCallbackObserver('page_match_1_block_match_team_matches_13_1_2', 'changeCompetition', {"competition_id":8});
+block.addCallbackObserver('page_match_1_block_match_team_matches_13_1_3', 'changeCompetition', {"competition_id":95});
+block.addCallbackObserver('page_match_1_block_match_team_matches_13_1_4', 'changeCompetition', {"competition_id":732});
+block.addCallbackObserver('page_match_1_block_match_team_matches_13_1_5', 'changeCompetition', {"competition_id":18});
+block.addCallbackObserver('page_match_1_block_match_team_matches_13_2_1', 'filterMatches', {"filter":"all"});
+block.addCallbackObserver('page_match_1_block_match_team_matches_13_2_2', 'filterMatches', {"filter":"home"});
+block.addCallbackObserver('page_match_1_block_match_team_matches_13_2_3', 'filterMatches', {"filter":"away"});
+    
+        
+    
+      block.setAttribute('colspan_left', 4);
+  block.setAttribute('colspan_right', 3);
+  
+  block.setAttribute('has_previous_page', true);
+  block.setAttribute('has_next_page', true);
+
+    
+    TimestampFormatter.format('page_match_1_block_match_team_matches_13');
+  })();
+</script>
+      
+        
+      
+        
+      
+        
+      
+        
+        
+        
+        
+        
+      </div>
+    </div>
+  </div>
+</div>
+<div class="yui-b">
+  <div class="block_ad ad_rectangle block clearfix">
+  
+
+
+
+
+
+
+
+<!--JavaScript Tag // Tag for network 327: Perform // Website: Soccerway // Page: Matches 2013 // Placement: Matches 2013-MPU-300 x 250 (4236543) // created at: Jan 18, 2013 11:03:51 AM-->
+<script language="javascript">
+<!--
+if (window.adgroupid == undefined) {
+ window.adgroupid = Math.round(Math.random() * 1000);
+}
+document.write('<script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|327|4236543|0|170|ADTECH;cookie=info;loc=100;target=_blank;sub1=[subst];kvcomp=8;kvteam=691:675;grp='+window.adgroupid+';misc='+new Date().getTime()+';kvenv=production;kvlang=cn"></script>');
+//-->
+</script><noscript><a href="http://adserver.adtech.de/adlink|3.0|327|4236543|0|170|ADTECH;loc=300;kvcomp=8;kvteam=691:675;sub1=[subst];kvenv=production;kvlang=cn" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|327|4236543|0|170|ADTECH;cookie=info;loc=300;kvcomp=8;kvteam=691:675;kvenv=production;kvlang=cn;" border="0" width="300" height="250"></a></noscript>
+<!-- End of JavaScript Tag -->
+
+
+</div>
+  
+  
+
+  
+    
+  <div class="block  clearfix block_competition_league_table_small-wrapper" id="page_match_1_block_competition_league_table_small_15-wrapper">
+  <h2><a href="/national/england/premier-league/20132014/regular-season/r21322/">英超联赛积分榜</a></h2>
+  
+  
+  
+  <div class="content  ">
+    <div class="block_competition_league_table_small real-content clearfix " id="page_match_1_block_competition_league_table_small_15">
+
+      <div class="block_league_table_small block block-nomb clearfix" id="page_match_1_block_competition_league_table_small_15_block_league_table_small_1">
+  <form action="/teams/comparison/" method="get" accept-charset="utf-8">
+  <table class="leaguetable sortable table " id="page_match_1_block_competition_league_table_small_15_block_league_table_small_1_table" data-round_id="21322">
+    <thead>
+      <tr class="sub-head">
+        <th title="排名" class="sortasc sortdefaultasc">#</th>
+        
+        <th class="text team sortdefaultasc">球队</th>
+
+        <th class="number total mp"><acronym title="已进行的球赛">已踢</acronym></th>
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <th class="number gd"><acronym title="净胜球">净胜</acronym></th>
+        <th class="number points"><acronym title="点数">点数</acronym></th>
+
+        
+
+        
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="odd   team_rank"  id="team_rank_row_660" data-team_id="660">
+        <td class="rank rank-dark-green">1</td>
+        <td class="text team large-link"><a href="/teams/england/arsenal-fc/660/" title="阿森纳">阿森纳</a></td>
+
+        <td class="number total mp">7</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+6</td>
+        <td class="number points">16</td>
+
+
+      </tr>
+      <tr class="even   team_rank"  id="team_rank_row_663" data-team_id="663">
+        <td class="rank rank-dark-green">2</td>
+        <td class="text team large-link"><a href="/teams/england/liverpool-fc/663/" title="利物浦">利物浦</a></td>
+
+        <td class="number total mp">7</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+6</td>
+        <td class="number points">16</td>
+
+
+      </tr>
+      <tr class="odd   team_rank"  id="team_rank_row_661" data-team_id="661">
+        <td class="rank rank-dark-green">3</td>
+        <td class="text team large-link"><a href="/teams/england/chelsea-football-club/661/" title="切尔西">切尔西</a></td>
+
+        <td class="number total mp">7</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+6</td>
+        <td class="number points">14</td>
+
+
+      </tr>
+      <tr class="even   team_rank"  id="team_rank_row_670" data-team_id="670">
+        <td class="rank rank-light-green">4</td>
+        <td class="text team large-link"><a href="/teams/england/southampton-fc/670/" title="南安普敦">南安普敦</a></td>
+
+        <td class="number total mp">7</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+5</td>
+        <td class="number points">14</td>
+
+
+      </tr>
+      <tr class="odd   team_rank"  id="team_rank_row_676" data-team_id="676">
+        <td class="rank rank-dark-blue">5</td>
+        <td class="text team large-link"><a href="/teams/england/manchester-city-football-club/676/" title="曼城">曼城</a></td>
+
+        <td class="number total mp">7</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+9</td>
+        <td class="number points">13</td>
+
+
+      </tr>
+      <tr class="even highlight  team_rank"  id="team_rank_row_675" data-team_id="675">
+        <td class="rank ">6</td>
+        <td class="text team large-link"><a href="/teams/england/tottenham-hotspur-football-club/675/" title="托特纳姆热刺">托特纳姆热刺</a></td>
+
+        <td class="number total mp">7</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+1</td>
+        <td class="number points">13</td>
+
+
+      </tr>
+      <tr class="odd   team_rank"  id="team_rank_row_674" data-team_id="674">
+        <td class="rank ">7</td>
+        <td class="text team large-link"><a href="/teams/england/everton-football-club/674/" title="埃弗顿">埃弗顿</a></td>
+
+        <td class="number total mp">7</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+1</td>
+        <td class="number points">12</td>
+
+
+      </tr>
+      <tr class="even   team_rank"  id="team_rank_row_725" data-team_id="725">
+        <td class="rank ">8</td>
+        <td class="text team large-link"><a href="/teams/england/hull-city-afc/725/" title="赫尔城">赫尔城</a></td>
+
+        <td class="number total mp">7</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">-1</td>
+        <td class="number points">11</td>
+
+
+      </tr>
+      <tr class="odd   team_rank"  id="team_rank_row_662" data-team_id="662">
+        <td class="rank ">9</td>
+        <td class="text team large-link"><a href="/teams/england/manchester-united-fc/662/" title="曼联">曼联</a></td>
+
+        <td class="number total mp">7</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+1</td>
+        <td class="number points">10</td>
+
+
+      </tr>
+      <tr class="even   team_rank"  id="team_rank_row_665" data-team_id="665">
+        <td class="rank ">10</td>
+        <td class="text team large-link"><a href="/teams/england/aston-villa-football-club/665/" title="阿斯顿维拉">阿斯顿维拉</a></td>
+
+        <td class="number total mp">7</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+1</td>
+        <td class="number points">10</td>
+
+
+      </tr>
+      <tr class="odd   team_rank"  id="team_rank_row_664" data-team_id="664">
+        <td class="rank ">11</td>
+        <td class="text team large-link"><a href="/teams/england/newcastle-united-football-club/664/" title="纽卡斯尔联">纽卡斯尔联</a></td>
+
+        <td class="number total mp">7</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">-3</td>
+        <td class="number points">10</td>
+
+
+      </tr>
+      <tr class="even   team_rank"  id="team_rank_row_678" data-team_id="678">
+        <td class="rank ">12</td>
+        <td class="text team large-link"><a href="/teams/england/west-bromwich-albion-football-club/678/" title="西布罗姆维奇">西布罗姆维奇</a></td>
+
+        <td class="number total mp">7</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+1</td>
+        <td class="number points">9</td>
+
+
+      </tr>
+      <tr class="odd   team_rank"  id="team_rank_row_684" data-team_id="684">
+        <td class="rank ">13</td>
+        <td class="text team large-link"><a href="/teams/england/west-ham-united-fc/684/" title="西汉姆联">西汉姆联</a></td>
+
+        <td class="number total mp">7</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">+2</td>
+        <td class="number points">8</td>
+
+
+      </tr>
+      <tr class="even highlight  team_rank"  id="team_rank_row_691" data-team_id="691">
+        <td class="rank ">14</td>
+        <td class="text team large-link"><a href="/teams/wales/cardiff-city-fc/691/" title="卡迪夫城">卡迪夫城</a></td>
+
+        <td class="number total mp">7</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">-2</td>
+        <td class="number points">8</td>
+
+
+      </tr>
+      <tr class="odd   team_rank"  id="team_rank_row_738" data-team_id="738">
+        <td class="rank ">15</td>
+        <td class="text team large-link"><a href="/teams/wales/swansea-city-afc/738/" title="斯旺西">斯旺西</a></td>
+
+        <td class="number total mp">7</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">-3</td>
+        <td class="number points">7</td>
+
+
+      </tr>
+      <tr class="even   team_rank"  id="team_rank_row_690" data-team_id="690">
+        <td class="rank ">16</td>
+        <td class="text team large-link"><a href="/teams/england/stoke-city-fc/690/" title="斯托克城">斯托克城</a></td>
+
+        <td class="number total mp">7</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">-3</td>
+        <td class="number points">7</td>
+
+
+      </tr>
+      <tr class="odd   team_rank"  id="team_rank_row_667" data-team_id="667">
+        <td class="rank ">17</td>
+        <td class="text team large-link"><a href="/teams/england/fulham-football-club/667/" title="富勒姆">富勒姆</a></td>
+
+        <td class="number total mp">7</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">-4</td>
+        <td class="number points">7</td>
+
+
+      </tr>
+      <tr class="even   team_rank"  id="team_rank_row_677" data-team_id="677">
+        <td class="rank rank-red">18</td>
+        <td class="text team large-link"><a href="/teams/england/norwich-city-fc/677/" title="诺维奇">诺维奇</a></td>
+
+        <td class="number total mp">7</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">-4</td>
+        <td class="number points">7</td>
+
+
+      </tr>
+      <tr class="odd   team_rank"  id="team_rank_row_679" data-team_id="679">
+        <td class="rank rank-red">19</td>
+        <td class="text team large-link"><a href="/teams/england/crystal-palace-fc/679/" title="水晶宫">水晶宫</a></td>
+
+        <td class="number total mp">7</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">-8</td>
+        <td class="number points">3</td>
+
+
+      </tr>
+      <tr class="even   team_rank"  id="team_rank_row_683" data-team_id="683">
+        <td class="rank rank-red">20</td>
+        <td class="text team large-link"><a href="/teams/england/sunderland-association-football-club/683/" title="桑德兰">桑德兰</a></td>
+
+        <td class="number total mp">7</td>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <td class="number gd">-11</td>
+        <td class="number points">1</td>
+
+
+      </tr>
+    </tbody>
+  </table>
+</form>
+<script type="text/javascript" charset="utf-8">
+  LeagueTable('page_match_1_block_competition_league_table_small_15_block_league_table_small_1_table');  
+</script>
+
+</div>
+<script type="text/javascript" charset="utf-8">
+ (function() {
+    var block = new Block('page_match_1_block_competition_league_table_small_15_block_league_table_small_1', 'block_league_table_small', null);
+    
+    
+    
+    TimestampFormatter.format('page_match_1_block_competition_league_table_small_15_block_league_table_small_1');
+  })();
+</script>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+  
+  (function() {
+    var block = new Block('page_match_1_block_competition_league_table_small_15', 'block_competition_league_table_small', null);
+    
+        
+        
+    
+    
+    
+    TimestampFormatter.format('page_match_1_block_competition_league_table_small_15');
+  })();
+</script>
+    
+  
+  
+
+  <div class="block_ad ad_betting_right block clearfix">
+  
+
+
+
+
+<!--JavaScript Tag // Tag for network 327: Perform // Website: Soccerway // Page: Matches 2013 // Placement: Matches 2013-Button 1-300 x 100 (4236544) // created at: Jan 18, 2013 11:04:20 AM-->
+<script language="javascript">
+<!--
+if (window.adgroupid == undefined) {
+ window.adgroupid = Math.round(Math.random() * 1000);
+}
+document.write('<script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|327|4236544|0|457|ADTECH;cookie=info;loc=100;target=_blank;sub1=[subst];kvcomp=8;kvteam=691:675;grp='+window.adgroupid+';misc='+new Date().getTime()+';kvenv=production;kvlang=cn"></script>');
+//-->
+</script><noscript><a href="http://adserver.adtech.de/adlink|3.0|327|4236544|0|457|ADTECH;loc=300;kvcomp=8;kvteam=691:675;sub1=[subst];kvenv=production;kvlang=cn" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|327|4236544|0|457|ADTECH;cookie=info;loc=300;kvcomp=8;kvteam=691:675;kvenv=production;kvlang=cn;" border="0" width="300" height="100"></a></noscript>
+<!-- End of JavaScript Tag -->
+
+
+</div>
+  <div class="block  clearfix block_ad_sponsored_links_localized-wrapper" id="page_match_1_block_ad_sponsored_links_localized_21-wrapper">
+  
+  <h2>赞助链接</h2>
+  
+  
+  <div class="content  ">
+    <div class="block_ad_sponsored_links_localized real-content clearfix " id="page_match_1_block_ad_sponsored_links_localized_21">
+
+      <div class="clearfix">
+  <div class="sl-first ">
+      <p><a href="http://www.goal.com" target="new_ads"><strong>GOAL.COM - Global football news, transfer rumours and betting editorial</strong></a></p>
+      <p><a href="http://www.goal.com" target="new_ads">Soccer news, results, live scores, football transfer rumours and fixtures - Goal.com</a></p>
+  </div>
+  <div class=" ">
+      <p><a href="http://www.livesport.tv" target="new_ads"><strong>LIVESPORT.TV - home of official streaming of premium sports from around the world</strong></a></p>
+      <p><a href="http://www.livesport.tv" target="new_ads">Watch official LIVE soccer, cricket, handball and snooker streams</a></p>
+  </div>
+  <div class=" sl-last">
+      <p><a href="http://www.betting-directory.com/football/" target="new_ads"><strong>Betting Directory Football </strong></a></p>
+      <p><a href="http://www.betting-directory.com/football/" target="new_ads">Latest news and odds for all major football competitions & matches, together with opinions and tips from Steve Claridge</a></p>
+  </div>
+</div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+  
+  (function() {
+    var block = new Block('page_match_1_block_ad_sponsored_links_localized_21', 'block_ad_sponsored_links_localized', null);
+    
+        
+        
+    
+    
+    
+    TimestampFormatter.format('page_match_1_block_ad_sponsored_links_localized_21');
+  })();
+</script>
+</div>
+
+  </div>
+  <div id="ft">
+    <div class="block_footer block  clearfix" id="block_footer_13">
+  <div id="footer" class="clearfix">
+  <h4 class="title">Soccerway</h4>
+  <div class="cols">
+    <div class="col">
+      <ul>
+        <li class="title">About</li>
+        <li><a href="/about/">About</a></li>
+        <li><a href="/advertising/">广告</a></li>
+        <li><a href="/contact/">联系我们</a></li>
+        <li><a href="/terms/">条款</a></li>
+      </li>
+    </div>
+    <div class="col">
+      <ul>
+        <li class="title">Content</li>
+        <li><a href="http://widgets.soccerway.com/">Widgets</a></li>
+        <li><a href="/syndication/">Content</a></li>
+      </ul>
+    </div>
+    <div class="col">
+      <ul>
+        <li class="title">手机</li>
+        <li><a href="/iphone/">iPhone</a></li>
+        <li><a href="/iphone/">iPad</a></li>
+        <li><a href="http://www.soccerway.mobi/">PDA/WAP</a></li>
+      </ul>
+    </div>
+    <div class="col">
+      <ul>
+        <li class="title">Social</li>
+        <li><a href="http://www.facebook.com/soccerway" class="facebook" target="_blank">Facebook</a></li>
+        <li><a href="http://www.twitter.com/soccerway" class="twitter" target="_blank">Twitter</a></li>
+      </ul>
+    </div>
+    <div class="col">
+      <ul>
+        <li class="title">Kick-off Times</li>
+        <li>Kick-off times are converted to your local PC time.<li>
+      </ul>
+    </div>
+  </div>
+  <h4 class="title">Perform Brands</h4>
+  <div class="cols">
+    <div class="col">
+      <ul>
+        <li class="title">Soccerway</li>
+        <li><a href="http://www.soccerway.com/">www.soccerway.com</a></li>
+      </ul>
+      <ul>
+        <li><a href="/national/england/premier-league/c8/">英超联赛</a></li>
+        <li><a href="/national/italy/serie-a/c13/">意甲联赛</a></li>
+        <li><a href="/national/spain/primera-division/c7/">西甲联赛</a></li>
+        <li><a href="/national/germany/bundesliga/c9/">德甲联赛</a></li>
+        <li><a href="/national/france/ligue-1/c16/">法甲联赛</a></li>
+        <li><a href="/national/netherlands/eredivisie/c1/">甲级联赛</a></li>
+      </ul>
+      <ul>
+        <li><a href="/international/europe/uefa-champions-league/c10/">欧洲冠军联赛</a></li>
+        <li><a href="/international/europe/uefa-cup/c18/">欧洲联赛</a></li>
+        <li><a href="/international/world/world-cup/c72/">世界杯</a></li>
+      </ul>
+    </div>
+    <div class="col">
+      <ul>
+        <li class="title">Scoresway</li>
+        <li><a href="http://www.scoresway.com/" target="_blank">www.scoresway.com</a></li>
+      </ul>
+      <ul>
+        <li><a href="http://www.scoresway.com/?sport=american_football" target="_blank">美式足球</a></li>
+        <li><a href="http://www.scoresway.com/?sport=baseball" target="_blank">棒球</a></li>
+        <li><a href="http://www.scoresway.com/?sport=basketball" target="_blank">篮球</a></li>
+        <li><a href="http://www.scoresway.com/?sport=cricket" target="_blank">板球</a></li>
+        <li><a href="http://www.scoresway.com/?sport=handball" target="_blank">手球</a></li>
+        <li><a href="http://www.scoresway.com/?sport=hockey" target="_blank">曲棍球</a></li>
+        <li><a href="http://www.scoresway.com/?sport=motorsports" target="_blank">摩托车运动</a></li>
+        <li><a href="http://www.scoresway.com/?sport=rugby" target="_blank">橄榄球</a></li>
+        <li><a href="http://www.scoresway.com/?sport=tennis" target="_blank">网球</a></li>
+        <li><a href="http://www.scoresway.com/?sport=volleyball" target="_blank">排球</a></li>
+      </ul>
+    </div>
+    <div class="col">
+      <ul>
+        <li class="title">Goal</li>
+        <li><a href="http://www.goal.com/" target="_blank">www.goal.com</a></li>
+      </ul>
+      <ul>
+        <li><a href="http://www.livematch.goal.com/home/locale/en-gb/" target="_blank">Live match centre</a></li>
+        <li><a href="http://www.goal.com/en-gb/live-scores/fixtures?tab=all" target="_blank">Football live scores</a></li>
+        <li><a href="http://www.goal.com/en-gb/news/archive/1" target="_blank">Football news</a></li>
+        <li><a href="http://www.goal.com/en-gb/news/2891/all-previews/archive/1" target="_blank">Football match previews</a></li>
+        <li><a href="http://www.goal.com/en-gb/news/2892/transfer-zone/" target="_blank">Football transfer Zone</a></li>
+        <li><a href="http://www.goal.com/en-gb/news/2896/premier-league-news-rumours/archive/1" target="_blank">Premier League news</a></li>
+        <li><a href="http://www.goal.com/en-gb/news/2896/premier-league/2012/08/29/3304750/the-premier-leagues-injury-suspension-list" target="_blank">Premier League injuries</a></li>
+        <li><a href="http://www.goal.com/en-gb/news/2891/premier-league-previews/archive/1" target="_blank">Premier League previews</a></li>
+        <li><a href="http://www.goal.com/en-gb/news/2914/champions-league-news-rumours/archive/1" target="_blank">Champions League news</a></li>
+      </ul>
+    </div>
+    <div class="col">
+      <ul>
+        <li class="title">Livesport</li>
+        <li><a href="http://www.livesport.tv" target="_blank">www.livesport.tv</a></li>
+      </ul>
+      <ul>
+        <li><a href="http://www.soccer.livesport.tv" target="_blank">Live football streams</a></li>
+        <li><a href="http://www.soccer.livesport.tv/" target="_blank">WC Qualification streams</a></li>
+        <li><a href="http://www.eredivisie.livesport.tv/" target="_blank">Live Eredivisie streams</a></li>
+        <li><a href="http://www.aleague.livesport.tv/" target="_blank">Live A League streams</a></li>
+        <li><a href="http://www.afc.livesport.tv/" target="_blank">Live AFC streams</a></li>
+        <li><a href="http://www.jleague.livesport.tv/" target="_blank">Live J League streams</a></li>
+        <li><a href="http://www.soccer.livesport.tv/" target="_blank">Brazil Paulista streams</a></li>
+        <li><a href="http://www.soccer.livesport.tv/" target="_blank">Argentina Primera streams</a></li>
+        <li><a href="http://www.csl.livesport.tv/" target="_blank">China SL streams</a></li>
+      </ul>
+    </div>
+    <div class="col">
+      <ul>
+        <li class="title">Perform</li>
+        <li><a href="http://www.performgroup.com" target="_blank">www.performgroup.com</a></li>
+      </ul>
+      <ul>
+        <li><a href="http://www.performgroup.co.uk/Design" target="_blank">Design</a></li>
+        <li><a href="http://www.performgroup.co.uk/Technology" target="_blank">Technology</a></li>
+        <li><a href="http://www.performgroup.co.uk/Content" target="_blank">Content</a></li>
+        <li><a href="http://www.performgroup.co.uk/Production" target="_blank">Production</a></li>
+        <li><a href="http://www.performgroup.co.uk/Marketing" target="_blank">Marketing</a></li>
+        <li><a href="http://www.performgroup.co.uk/CRM" target="_blank">CRM</a></li>
+        <li><a href="http://www.performgroup.co.uk/MediaSales" target="_blank">Media Sales</a></li>
+        <li><a href="http://www.performgroup.co.uk/Operations" target="_blank">Operations</a></li>
+        <li><a href="http://www.performgroup.co.uk/Distribution" target="_blank">Distribution</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div id="copyright">
+  Copyright &copy;2013 <a href="http://www.globalsportsmedia.com/" target="_blank">Global Sports Media</a>. All rights reserved.
+</div>
+
+</div>
+<script type="text/javascript" charset="utf-8">
+ (function() {
+    var block = new Block('block_footer_13', 'block_footer', null);
+    
+    
+    
+    TimestampFormatter.format('block_footer_13');
+  })();
+</script>
+  </div>
+  
+</div>
+
+<div class="block_ad ad_floating_bar block clearfix">
+  <div  style='width:1000px; height:50px;'>
+<span class="close">&nbsp;</span>
+
+
+
+
+
+
+
+
+
+<!--JavaScript Tag // Tag for network 327: Perform // Website: Soccerway // Page: Matches 2013 // Placement: Matches 2013-MPU-300 x 250 (4236543) // created at: Jan 18, 2013 11:03:51 AM-->
+<script language="javascript">
+<!--
+function floatingBarAd() { 
+
+  if (window.adgroupid == undefined) {
+   window.adgroupid = Math.round(Math.random() * 1000);
+  }
+
+  return '<script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|327|4630863|0|16|ADTECH;cookie=info;loc=100;target=_blank;sub1=[subst];kvcomp=8;kvteam=691:675;kvenv=production;kvlang=cn;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></script>';
+}
+//-->
+</script>
+<noscript><a href="http://adserver.adtech.de/adlink|3.0|327|4630863|0|16|ADTECH;loc=300;sub1=[subst];kvcomp=8;kvteam=691:675;kvenv=production;kvlang=cn" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|327|4630863|0|16|ADTECH;cookie=info;loc=300;kvcomp=8;kvteam=691:675;kvenv=production;kvlang=cn" border="0" width="1" height="1"></a></noscript>
+<!-- End of JavaScript Tag -->
+
+<div id="floating_bar_adtech_container">
+<script type="text/javascript">
+(function(){
+  var el = $$('.ad_floating_bar')[0];
+  if (el) {
+    var cookie_name = 'sw_no_ad_floating_bar';
+    if (!Cookie.get(cookie_name)) {
+      if (typeof floatingBarAd != 'undefined') {
+        var text = floatingBarAd();
+        document.write(text);
+        el.setStyle({display:'block'});
+          Element.select(el, '.close')[0].observe('click', function(evt){
+            el.style.display = 'none';
+
+            var date = new Date();
+            date.setTime(date.getTime()+(24*60*60*1000)); // 24h
+
+            Cookie.set(cookie_name, 1, {expires: date.toUTCString(), path: '/', domain: Config.get('base_domain')});
+            Event.stop(evt);
+          });
+          var counter = 20;
+
+          var run = function() {
+            if (counter--) {
+              setTimeout(function(){
+                el.setStyle({display:'block'});
+                var els = $('floating_bar_adtech_container').childElements();
+                var found = false;
+                els.each(function(adtech_el) {
+                  if (found) return;
+                  if (adtech_el.nodeName.toLowerCase() !='script' && adtech_el.nodeName.toLowerCase() !='noscript') {
+                    found = true;
+                    if (adtech_el.getWidth() < 800) {
+                      el.setStyle({display:'none'});
+                    }
+                  }
+                });
+                if (!found) {
+                  el.setStyle({display:'none'});
+                  run();
+                }
+
+              }, 200);
+            }
+          };
+          run();
+        
+      }
+
+    }
+  }
+})();
+</script>
+</div>
+</div>
+
+</div>
+
+<div id="popup" class="hidden">
+  <div class="content"></div>
+  <div class="handle"></div>
+  <a class="close-button"></a>
+</div>
+
+
+<!-- SiteCatalyst code version: H.25.3.
+Copyright 1996-2013 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script type="text/javascript">var s_account="goalv15soccerway";</script>
+<script src="http://s1.swimg.net/gsmf/458/js/s_code.js" type="text/javascript" charset="utf-8"></script>
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName="Matches : Premier League : Cardiff City Fc - Tottenham Hotspur Football Club";
+s.channel="Matches";
+s.pageType="Matches";
+s.prop1="Matches : Premier League";
+s.prop2="Matches : Premier League : Cardiff City Fc - Tottenham Hotspur Football Club";
+s.prop3="Matches";
+s.prop4="Desktop";
+s.prop5=window.location.href;
+s.prop6="";
+s.prop13 = "8"
+s.prop14 = ""
+s.prop15 = "691:675"
+s.events="event1,event2";
+s.eVar4=s.prop6;
+s.eVar5=s.prop5;
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!--')
+//--></script><noscript><img src="http://ptvgoalv15.122.2o7.net/b/ss/goalv15soccerway/1/H.25.3--NS/0?pageName=Matches%20%3A%20Premier%20League%20%3A%20Cardiff%20City%20Fc%20-%20Tottenham%20Hotspur%20Football%20Club&g=http%3A%2F%2Fcn.soccerway.com%2F%2Fmatches%2F2013%2F09%2F22%2Fengland%2Fpremier-league%2Fcardiff-city-fc%2Ftottenham-hotspur-football-club%2F1483498%2F&ch=Matches&c1=Matches%20%3A%20Premier%20League&c2=Matches%20%3A%20Premier%20League%20%3A%20Cardiff%20City%20Fc%20-%20Tottenham%20Hotspur%20Football%20Club&c3=Matches&c4=Desktop"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.25.3. -->
+<script type="text/javascript">
+(function() { var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true; em.src = ('https:' == document.location.protocol ? 'https://me-ssl' : 'http://me-cdn') + '.effectivemeasure.net/em.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s); })();
+</script>
+<noscript>
+<img src="//me.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
+</noscript>
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2012 Nielsen Online -->
+<script type="text/javascript" src="//secure-au.imrworldwide.com/v60.js">
+</script>
+<script type="text/javascript">
+ var pvar = { cid: "sportal-au", content: "0", server: "secure-au" };
+ var trac = nol_t(pvar);
+ trac.record().post();
+</script>
+<noscript>
+ <div>
+ <img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=sportal-au&amp;cg=0&amp;cc=1&amp;ts=noscript"
+ width="1" height="1" alt="" />
+ </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+</body>
+</html>
