@@ -4,47 +4,69 @@ from html.parser import HTMLParser
 
 class MatchLinkParser:
     def __init__(self):
-        self.tagAttributs = (
-                ('div',[('class','form clearfix'),('class','clearfix'),('class','container left'),('class','container right')]),
-                ('h3',[('class','thick')]),
-                ('a',[]))
-        self.attributePath = (('div/div/h3/a','href'),('div/div/div/a','href'),('div/div/div/a','title'))
-        self.ignored = []
+        self.divlevel = [
+                {('class','clearfix')},
+                {('class','container right'),('class','container left')},
+                {('class','form clearfix')}]
+
+        self.tagAttributs = (('h3',[('class','thick')]),('a',[]))
+        self.attributePath = (('div/div/div/a','href'),('div/div/div/a','title'))
+        self.dataPath = ['div/div/h3/a']
         self.data = {}
-        self.level_stack = []
+        self.ignored_tag = []
+        self.tag_stack = []
+
+    def tagPath(self):
+        return '/'.join([i for i,j,k in self.tag_stack])
 
     def attribute(self,tag,attrs):
-        print('added {0} with attributes:{1}'.format(tag,attrs))
+        tagPath = self.tagPath()
         for k,p in self.attributePath:
-            if k == '/'.join(self.level_stack):
+            if k == tagPath:
                 for ak,av in attrs:
                     if ak == p:
-                        print('----','/'.join(self.level_stack),ak,av);
+                        print(av);
 
     def add(self,tag,attrs):
-        for k,v in self.tagAttributs:
-            if k != tag:
-                continue
-            if v:
-                for ak,av in attrs:
-                    if (ak,av) in v:
-                        self.level_stack.append(tag)
-                        self.attribute(tag,attrs)
-                        return
+        div_stack = [i for i,(j,k,l) in enumerate(self.tag_stack) if j == 'div']
+        setIndex = (div_stack[-1] + 1) if div_stack else 0;
+        if tag == 'div':
+            if setIndex < len(self.divlevel):
+                setDivProperty = self.divlevel[setIndex] & set(attrs)
+                if setDivProperty:
+                    (i,j) = setDivProperty.pop();
+                    self.tag_stack.append((tag,i,j))
+                    self.ignored_tag.clear()
+                    return
             else:
-                self.level_stack.append(tag)
-                self.attribute(tag,attrs)
-                return
-        self.ignored.append(tag)
-        print('{0} ingnored with attributs:{1}'.format(tag,attrs))
+                print('too much divs.',attrs)
+        elif setIndex > 0:
+            for k,v in self.tagAttributs:
+                if k != tag:
+                    continue
+                if v:
+                    for ak,av in attrs:
+                        if (ak,av) in v:
+                            self.tag_stack.append((tag,ak,av))
+                            self.ignored_tag.clear()
+                            self.attribute(tag,attrs)
+                            return
+                else:
+                    self.tag_stack.append((tag,'',''))
+                    self.ignored_tag.clear()
+                    self.attribute(tag,attrs)
+                    return
+        self.ignored_tag.append(tag)
 
     def pop(self,tag):
-        if self.ignored and tag == self.ignored[-1]:
-            self.ignored.pop()
+        if self.ignored_tag and tag == self.ignored_tag[-1]:
+            a = self.ignored_tag.pop()
             return
-        if self.level_stack and tag == self.level_stack[-1]:
-            self.level_stack.pop()
+        if self.tag_stack and tag == self.tag_stack[-1][0]:
+            a = self.tag_stack.pop()
 
     def append(self,data):
         pass
+        #if self.tagPath() in self.dataPath:
+            #print('data :',data.strip())
 
