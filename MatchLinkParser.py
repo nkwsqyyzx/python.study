@@ -11,10 +11,11 @@ class MatchLinkParser:
 
         self.tagAttributs = (('h3',[('class','thick')]),('a',[]))
         self.attributePath = (('div/div/div/a','href'),('div/div/div/a','title'))
-        self.dataPath = ['div/div/h3/a']
-        self.data = {}
+        self.data = []
         self.ignored_tag = []
         self.tag_stack = []
+        self.title = ''
+        self.link = ''
 
     def tagPath(self):
         return '/'.join([i for i,j,k in self.tag_stack])
@@ -24,8 +25,16 @@ class MatchLinkParser:
         for k,p in self.attributePath:
             if k == tagPath:
                 for ak,av in attrs:
-                    if ak == p:
-                        print(av);
+                    if ak == p :
+                        if ak == 'title':
+                            self.title = av
+                        elif ak == 'href':
+                            self.link = av
+        if self.link and self.title:
+            self.data.append((self.title,self.link))
+            self.link = ''
+            self.title = ''
+
 
     def add(self,tag,attrs):
         div_stack = [i for i,(j,k,l) in enumerate(self.tag_stack) if j == 'div']
@@ -67,6 +76,7 @@ class MatchLinkParser:
 
     def append(self,data):
         pass
-        #if self.tagPath() in self.dataPath:
-            #print('data :',data.strip())
 
+
+    def getdata(self):
+        return self.data
