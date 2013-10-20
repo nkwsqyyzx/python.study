@@ -27,5 +27,5 @@ parser = htmlparser()
 with open('f.txt',encoding='utf-8') as fi:
     parser.feed(fi.read())
 
-#print(parser.linkParser.getdata())
+print(parser.squadParser.getdata())
 parser.close()

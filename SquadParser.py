@@ -43,8 +43,7 @@ class SquadParser:
         tagPath = self.tagPath()
         for k,p in self.attributePath:
             if k == tagPath:
-                print(self.getKV(attrs,p))
-
+                self.link = self.getKV(attrs,p)
 
     def add(self,tag,attrs):
         if tag == 'table':
@@ -58,7 +57,8 @@ class SquadParser:
                 self.tag_stack.append((tag,'',''))
                 return
             else:
-                print('invalid table tag',attrs)
+                # invalid table tag
+                pass
         elif self.tag_stack:
             for k,v in self.tagAttributs:
                 if k != tag:
@@ -85,8 +85,22 @@ class SquadParser:
             a = self.tag_stack.pop()
 
     def append(self,data):
-        if self.tagPath() in self.dataPath and data.strip():
-            print(data.strip())
-
+        sz = data.strip();
+        path = self.tagPath()
+        if sz:
+            if path == 'table/tbody/tr/td':
+                self.shirtnumber = int(sz)
+            elif path == 'table/tbody/tr/td/a':
+                self.name = sz
+            else:
+                # wrong path
+                pass
+            
+        if self.name:
+            self.data.append((self.shirtnumber,self.link,self.name))
+            self.name = ''
+            self.link = ''
+            self.shirtnumber = 0
+            
     def getdata(self):
         return self.data
