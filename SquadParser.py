@@ -2,6 +2,16 @@
 # -*- coding:utf-8 -*-
 from html.parser import HTMLParser
 
+class PLAYERTYPE:
+    # 是否是首发球员 -1 其他 0 首发球员，1 替补上场，2 未上场队员
+    NONE = -1
+    # 首发
+    FIRST = 0
+    # 替补上场
+    SUBSTITUTE = 1
+    # 未替补上场
+    NOSUBSTITUE = 2
+
 class SquadParser:
 
     def hasKV(self,attrs,ak,av):
@@ -26,43 +36,49 @@ class SquadParser:
                 ('p',[('class','substitute substitute-in'),('class','substitute substitute-out')]),
                 ('a',[]))
         self.attributePath = [('table/tbody/tr/td/a','href')]
-        self.dataPath = ['table/tbody/tr/td','table/tbody/tr/td/a','table/tbody/tr/td','table/tbody/tr/td/p','table/tbody/tr/td/p/a']
         self.data = []
+        self.playerType = PLAYERTYPE.NONE
         self.shirtnumber = 0
         self.name = ''
-        self.isvalid = 0
+        self.link = ''
         self.ignored_tag = []
         self.tag_stack = []
-        self.title = ''
-        self.link = ''
 
     def tagPath(self):
         return '/'.join([i for i,j,k in self.tag_stack])
 
     def attribute(self,tag,attrs):
         tagPath = self.tagPath()
+        if not attrs:
+            return
         for k,p in self.attributePath:
             if k == tagPath:
-                print(self.getKV(attrs,p))
-
+                self.link = self.getKV(attrs, p)
 
     def add(self,tag,attrs):
         if tag == 'table':
             if self.tag_stack:
                 raise RuntimeError('too much tables {0}'.format(attrs))
             if self.hasKV(attrs,'class','playerstats lineups table'):
+                # 首发球员表
                 self.tag_stack.append((tag,'',''))
+                self.playerType = PLAYERTYPE.FIRST
                 self.ignored_tag.clear()
                 return
             elif self.hasKV(attrs,'class','playerstats lineups substitutions table'):
+                # 替补球员表
                 self.tag_stack.append((tag,'',''))
+                self.ignored_tag.clear()
                 return
             else:
-                print('invalid table tag',attrs)
+                pass
         elif self.tag_stack:
             for k,v in self.tagAttributs:
                 if k != tag:
                     continue
+                if k == 'p':
+                    self.playerType = PLAYERTYPE.SUBSTITUTE
+                
                 if v:
                     for ak,av in attrs:
                         if (ak,av) in v:
@@ -79,14 +95,42 @@ class SquadParser:
 
     def pop(self,tag):
         if self.ignored_tag and tag == self.ignored_tag[-1]:
-            a = self.ignored_tag.pop()
+            self.ignored_tag.pop()
             return
         if self.tag_stack and tag == self.tag_stack[-1][0]:
-            a = self.tag_stack.pop()
-
+            self.tag_stack.pop()
+            if tag == 'table':
+                self.playerType = PLAYERTYPE.NONE
+            
+    #self.dataPath = ['table/tbody/tr/td','table/tbody/tr/td/a','table/tbody/tr/td/p','table/tbody/tr/td/p/a']
     def append(self,data):
-        if self.tagPath() in self.dataPath and data.strip():
-            print(data.strip())
+        d = data.strip()
+        if not d :
+            return
+        tagPath = self.tagPath()
+        if tagPath == 'table/tbody/tr/td':
+            # 首发、替补的号码
+            self.shirtnumber = int(d)
+        elif tagPath == 'table/tbody/tr/td/a':
+            # 首发的名字
+            self.name = d
+        elif tagPath == 'table/tbody/tr/td/p':
+            # 替补
+            # print(tagPath,d)
+            pass
+        elif tagPath == 'table/tbody/tr/td/p/a':
+            pass
+            # print(tagPath,d)
+
+        if self.playerType == PLAYERTYPE.SUBSTITUTE:
+            print('substitutions',d)
+        
+        if self.name:
+            if self.playerType == PLAYERTYPE.FIRST:
+                self.data.append((self.shirtnumber, self.name, self.link))
+                self.shirtnumber = 0
+                self.name = ''
+                self.link = ''
 
     def getdata(self):
         return self.data
